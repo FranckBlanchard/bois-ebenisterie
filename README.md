@@ -13,9 +13,9 @@ Les mises à jour seront annoncées via ma page Facebook: @lefoudesbois.
 ## Courriel: info@lefoudesbois.ca
 ## Facebook: https://www.facebook.com/LeFouDesBois/
 
-# France
+# France.
 Les liens seront classés par département.
-# Québec
+# Québec.
 Les liens sont classé par région.
 ## Laurentides.
 
@@ -25,10 +25,22 @@ Les liens sont classé par région.
 
 http://bois-exotique.com/
 
-## Montréal
+514 893 6507
+
+## Montérégie
+
+### Bois M et M
+
+130 Rue Principale, Saint-Mathieu, QC J0L 2H0
+
+450 632 7868
+
+## Montréal.
 
 ### Langevin Forest.
 
 9995 Boulevard Pie-IX, Montréal, QC H1Z 3X1
 
 https://www.langevinforest.com/fr/
+
+1 800 889-2060
