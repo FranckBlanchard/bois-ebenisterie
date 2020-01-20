@@ -17,6 +17,23 @@ Les mises à jour seront annoncées via ma page Facebook: @lefoudesbois.
 Les liens seront classés par département.
 # Québec.
 Les liens sont classé par région.
+
+## Estrie
+
+Atelier 501 inc.
+
+2915 Rue Galt O, Sherbrooke, QC J1K 1M1
+
+https://www.facebook.com/latelier501/
+
+450 775 9878
+
+## Lanaudières.
+
+550 J.Oswald Forest,Saint-Roch-de-l'Achigan, Québec, J0K 3H0
+
+450 582 2647
+
 ## Laurentides.
 
 ### Bois-exotique.
@@ -34,6 +51,14 @@ http://bois-exotique.com/
 130 Rue Principale, Saint-Mathieu, QC J0L 2H0
 
 450 632 7868
+
+### Scierie JTM
+
+1382 rte de la Cité-des-Jeunes, Saint-Lazare QC J7T 2B8
+
+http://www.scieriejtm.ca/
+
+450 455 9450
 
 ## Montréal.
 
