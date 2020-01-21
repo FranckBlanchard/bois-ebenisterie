@@ -24,15 +24,25 @@ Atelier 501 inc.
 
 2915 Rue Galt O, Sherbrooke, QC J1K 1M1
 
-https://www.facebook.com/latelier501/
-
-450 775 9878
+450) 775-9878
 
 ## Lanaudières.
 
+### Bois Compex Inc.
+
 550 J.Oswald Forest,Saint-Roch-de-l'Achigan, Québec, J0K 3H0
 
+http://www.boiscompex.com/
+
 450 582 2647
+
+### Bois Malo
+
+1540 Rang du Domaine, Sainte-Mélanie, J0K 3A0
+
+http://www.boismalo.com/
+
+450 889 2478
 
 ## Laurentides.
 
