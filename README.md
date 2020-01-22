@@ -8,7 +8,7 @@ Si vous avez des suggestions n'hésitez pas à me contacter.
 
 Les mises à jour seront annoncées via ma page Facebook: @lefoudesbois.
 
-# Pour me contacter
+# Pour me contacter.
 
 ## Courriel: info@lefoudesbois.ca
 ## Facebook: https://www.facebook.com/LeFouDesBois/
@@ -17,7 +17,15 @@ Les mises à jour seront annoncées via ma page Facebook: @lefoudesbois.
 Les liens seront classés par département.
 # Québec.
 Les liens sont classé par région.
-## Capitale-Nationale
+## Capitale-Nationale.
+
+###  Bois Delta Inc.
+
+905 Bd Charest O, Quebec, Quebec G1N 2C9
+
+https://bois-delta.com/
+
+418 682 6270
 
 ### La Muse Bois Inc.
 
@@ -25,9 +33,9 @@ Les liens sont classé par région.
 
 https://lamusebois.com/
 
-418 781-6066
+418 781 6066
 
-## Estrie
+## Estrie.
 
 ### Atelier 501 inc.
 
@@ -45,7 +53,7 @@ http://www.boiscompex.com/
 
 450 582 2647
 
-### Bois Malo
+### Bois Malo.
 
 1540 Rang du Domaine, Sainte-Mélanie, J0K 3A0
 
@@ -63,21 +71,21 @@ http://bois-exotique.com/
 
 514 893 6507
 
-## Montérégie
+## Montérégie.
 
-### Bois M et M
+### Bois M et M.
 
 130 Rue Principale, Saint-Mathieu, QC J0L 2H0
 
 450 632 7868
 
-### Les Bois Riant
+### Les Bois Riant.
 
 1627 11e Rang, Saint-Valérien-de-Milton, QC J0H 2B0
 
 450 549 2795
 
-### Scierie JTM
+### Scierie JTM.
 
 1382 rte de la Cité-des-Jeunes, Saint-Lazare QC J7T 2B8
 
@@ -94,3 +102,11 @@ http://www.scieriejtm.ca/
 https://www.langevinforest.com/fr/
 
 1 800 889-2060
+
+# Ontario.
+
+### KJP Select Hardwoods.
+
+145 Bentley Avenue, Unit 3 Ottawa, ON K2E 6T7
+
+613 225 6926
