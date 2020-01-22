@@ -17,14 +17,23 @@ Les mises à jour seront annoncées via ma page Facebook: @lefoudesbois.
 Les liens seront classés par département.
 # Québec.
 Les liens sont classé par région.
+## Capitale-Nationale
+
+### La Muse Bois Inc.
+
+2450, de la Concorde, Québec, Qc G1L 4Z5
+
+https://lamusebois.com/
+
+418 781-6066
 
 ## Estrie
 
-Atelier 501 inc.
+### Atelier 501 inc.
 
 2915 Rue Galt O, Sherbrooke, QC J1K 1M1
 
-450) 775-9878
+450 775 9878
 
 ## Lanaudières.
 
@@ -61,6 +70,12 @@ http://bois-exotique.com/
 130 Rue Principale, Saint-Mathieu, QC J0L 2H0
 
 450 632 7868
+
+### Les Bois Riant
+
+1627 11e Rang, Saint-Valérien-de-Milton, QC J0H 2B0
+
+450 549 2795
 
 ### Scierie JTM
 
