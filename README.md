@@ -73,6 +73,14 @@ http://bois-exotique.com/
 
 ## Montérégie.
 
+### Bois Franc Rive-Sud
+
+4200 Boul Matte, Brossard, QC J4Y 2Z2
+
+http://www.boisfranc-rivesud.qc.ca/fr/
+
+450 619 1100
+
 ### Bois M et M.
 
 130 Rue Principale, Saint-Mathieu, QC J0L 2H0
