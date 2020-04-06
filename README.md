@@ -7,14 +7,10 @@ Si vous êtes marchand et que vous n'êtes pas mentionné, contactez moi et je v
 Si vous avez des suggestions n'hésitez pas à me contacter.
 
 Les mises à jour seront annoncées via ma page Facebook: @lefoudesbois.
-
 # Pour me contacter.
 
-## Courriel: info@lefoudesbois.ca
-## Facebook: https://www.facebook.com/LeFouDesBois/
-
-# France.
-Les liens seront classés par département.
+### Courriel: info@lefoudesbois.ca
+### Facebook: https://www.facebook.com/LeFouDesBois/
 # Québec.
 Les liens sont classé par région.
 ## Capitale-Nationale.
@@ -44,7 +40,6 @@ https://lamusebois.com/
 http://li-ma-co.com/
 
 418 831 4947
-
 ## Estrie.
 
 ### Atelier 501 inc.
@@ -52,7 +47,6 @@ http://li-ma-co.com/
 2915 Rue Galt O, Sherbrooke, QC J1K 1M1
 
 450 775 9878
-
 ## Lanaudières.
 
 ### Bois Compex Inc.
@@ -70,7 +64,6 @@ http://www.boiscompex.com/
 http://www.boismalo.com/
 
 450 889 2478
-
 ## Laurentides.
 
 ### Bois-exotique.
@@ -80,7 +73,6 @@ http://www.boismalo.com/
 http://bois-exotique.com/
 
 514 893 6507
-
 ## Montérégie.
 
 ### Bois Franc Rive-Sud
@@ -110,7 +102,6 @@ http://www.boisfranc-rivesud.qc.ca/fr/
 http://www.scieriejtm.ca/
 
 450 455 9450
-
 ## Montréal.
 
 ### Langevin Forest.
@@ -120,8 +111,18 @@ http://www.scieriejtm.ca/
 https://www.langevinforest.com/fr/
 
 1 800 889-2060
+## Outaouais.
 
+### L'artisan ébéniste.
+
+1811, Boul Maloney Est, Gatineau, J8R 3z1
+
+https://boutique.artisanebeniste.ca/
+
+819-431-2222
 # Ontario.
+Les adresses sont classées par villes.
+## Ottawa
 
 ### KJP Select Hardwoods.
 
@@ -130,3 +131,24 @@ https://www.langevinforest.com/fr/
 https://kjpselecthardwoods.com/
 
 613 225 6926
+# Copyright
+## MIT License
+## Copyright (c) 2020 Franck Blanchard
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

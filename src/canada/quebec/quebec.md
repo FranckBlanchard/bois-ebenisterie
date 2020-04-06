@@ -98,3 +98,12 @@ http://www.scieriejtm.ca/
 https://www.langevinforest.com/fr/
 
 1 800 889-2060
+## Outaouais.
+
+### L'artisan ébéniste.
+
+1811, Boul Maloney Est, Gatineau, J8R 3z1
+
+https://boutique.artisanebeniste.ca/
+
+819-431-2222

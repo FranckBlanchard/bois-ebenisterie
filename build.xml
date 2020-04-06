@@ -1,16 +1,18 @@
 <?xml version="1.0"?>
 <project name="memo-linux" default="all">
   <target name="all">
-          <antcall target="readme"></antcall>
           <antcall target="quebec"></antcall>
           <antcall target="ontario"></antcall>
+          <antcall target="readme"></antcall>
   </target>
   <target name="readme" description="Création du fichier readme">
         <echo message="Création du fichier readme"/>
-        <concat destfile="README2.md">
+        <concat destfile="README.md">
             <filelist >
                 <file name="src/introduction.md"/>
                 <file name="src/contact.md"/>
+                <file name="src/canada/quebec/quebec.md"/>
+                <file name="src/canada/ontario/ontario.md"/>
                 <file name="LICENSE"/>
             </filelist>
         </concat>
@@ -27,6 +29,7 @@
               <file name="src/canada/quebec/laurentides.md"/>
               <file name="src/canada/quebec/monteregie.md"/>
               <file name="src/canada/quebec/montreal.md"/>
+              <file name="src/canada/quebec/outaouais.md"/>
           </filelist>
       </concat>
     </target>
