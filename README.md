@@ -107,7 +107,7 @@ http://www.scieriejtm.ca/
 
 ### Bois S.D. Malo
 
-740 RUE JEAN NEVEU , LOCAL 102, LONGUEUIL, QC J4G 1P1
+740 Rue Jean Neveu, Local 102, Longueuil, QC J4G 1P1
 
 http://www.sdmalo.com/
 
