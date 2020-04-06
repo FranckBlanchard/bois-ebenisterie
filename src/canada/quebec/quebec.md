@@ -91,6 +91,14 @@ http://www.boisfranc-rivesud.qc.ca/fr/
 http://www.scieriejtm.ca/
 
 450 455 9450
+
+### Bois S.D. Malo
+
+740 RUE JEAN NEVEU , LOCAL 102, LONGUEUIL, QC J4G 1P1
+
+http://www.sdmalo.com/
+
+450-670-4040
 ## Montréal.
 
 ### Langevin Forest.
