@@ -7,12 +7,16 @@ Si vous êtes marchand et que vous n'êtes pas mentionné, contactez moi et je v
 Si vous avez des suggestions n'hésitez pas à me contacter.
 
 Les mises à jour seront annoncées via ma page Facebook: @lefoudesbois.
+
 # Pour me contacter.
 
 ### Courriel: info@lefoudesbois.ca
 ### Facebook: https://www.facebook.com/LeFouDesBois/
 # Québec.
+
 Les liens sont classé par région.
+
+
 ## Capitale-Nationale.
 
 ###  Bois Delta Inc.
@@ -40,6 +44,7 @@ https://lamusebois.com/
 http://li-ma-co.com/
 
 418 831 4947
+
 ## Estrie.
 
 ### Les Bois 501
@@ -49,6 +54,7 @@ http://li-ma-co.com/
 https://www.facebook.com/latelier501/
 
 450 775 9878
+
 ## Lanaudières.
 
 ### Bois Compex Inc.
@@ -66,6 +72,7 @@ http://www.boiscompex.com/
 http://www.boismalo.com/
 
 450 889 2478
+
 ## Laurentides.
 
 ### Bois-exotique.
@@ -75,6 +82,7 @@ http://www.boismalo.com/
 http://bois-exotique.com/
 
 514 893 6507
+
 ## Montérégie.
 
 ### Bois Franc Rive-Sud
@@ -120,6 +128,7 @@ http://www.sdmalo.com/
  http://www.forestierstouchette.com/
 
 450-379-2061
+
 ## Montréal.
 
 ### Langevin Forest.
@@ -129,6 +138,7 @@ http://www.sdmalo.com/
 https://www.langevinforest.com/fr/
 
 1 800 889-2060
+
 ## Outaouais.
 
 ### L'artisan ébéniste.
@@ -138,8 +148,10 @@ https://www.langevinforest.com/fr/
 https://boutique.artisanebeniste.ca/
 
 819-431-2222
+
 # Ontario.
 Les adresses sont classées par villes.
+
 ## Ottawa
 
 ### KJP Select Hardwoods.

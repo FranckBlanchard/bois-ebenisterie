@@ -1,5 +1,8 @@
 # Québec.
+
 Les liens sont classé par région.
+
+
 ## Capitale-Nationale.
 
 ###  Bois Delta Inc.
@@ -27,6 +30,7 @@ https://lamusebois.com/
 http://li-ma-co.com/
 
 418 831 4947
+
 ## Estrie.
 
 ### Les Bois 501
@@ -36,6 +40,7 @@ http://li-ma-co.com/
 https://www.facebook.com/latelier501/
 
 450 775 9878
+
 ## Lanaudières.
 
 ### Bois Compex Inc.
@@ -53,6 +58,7 @@ http://www.boiscompex.com/
 http://www.boismalo.com/
 
 450 889 2478
+
 ## Laurentides.
 
 ### Bois-exotique.
@@ -62,6 +68,7 @@ http://www.boismalo.com/
 http://bois-exotique.com/
 
 514 893 6507
+
 ## Montérégie.
 
 ### Bois Franc Rive-Sud
@@ -107,6 +114,7 @@ http://www.sdmalo.com/
  http://www.forestierstouchette.com/
 
 450-379-2061
+
 ## Montréal.
 
 ### Langevin Forest.
@@ -116,6 +124,7 @@ http://www.sdmalo.com/
 https://www.langevinforest.com/fr/
 
 1 800 889-2060
+
 ## Outaouais.
 
 ### L'artisan ébéniste.

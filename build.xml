@@ -2,6 +2,7 @@
 <project name="memo-linux" default="all">
   <target name="all">
           <antcall target="quebec"></antcall>
+          <antcall target="quebec-html"></antcall>
           <antcall target="ontario"></antcall>
           <antcall target="readme"></antcall>
   </target>
@@ -33,6 +34,19 @@
           </filelist>
       </concat>
     </target>
+    <target name="quebec-html" description="Création du fichier quebec.md">
+      <echo message="Création du fichier quebec.html"/>
+      <exec executable="pandoc">
+      <arg value="src/canada/quebec/quebec.md"/>
+      <arg value="-f"/>
+      <arg value="markdown"/>
+      <arg value="-t"/>
+      <arg value="html"/>
+      <arg value="-o"/>
+      <arg value="build/html/quebec/quebec.html"/>
+      </exec>
+    </target>
+
     <target name="ontario" description="Création du fichier ontario.md">
       <echo message="Création du fichier ontario.md"/>
       <concat destfile="src/canada/ontario/ontario.md">
