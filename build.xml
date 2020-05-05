@@ -4,6 +4,9 @@
           <antcall target="quebec"></antcall>
           <antcall target="quebec-html"></antcall>
           <antcall target="ontario"></antcall>
+          <antcall target="ontario-html"></antcall>
+          <antcall target="canada"></antcall>
+          <antcall target="canada-html"></antcall>
           <antcall target="readme"></antcall>
   </target>
   <target name="readme" description="Création du fichier readme">
@@ -34,7 +37,7 @@
           </filelist>
       </concat>
     </target>
-    <target name="quebec-html" description="Création du fichier quebec.md">
+    <target name="quebec-html" description="Création du fichier quebec.html">
       <echo message="Création du fichier quebec.html"/>
       <exec executable="pandoc">
       <arg value="src/canada/quebec/quebec.md"/>
@@ -43,7 +46,7 @@
       <arg value="-t"/>
       <arg value="html"/>
       <arg value="-o"/>
-      <arg value="build/html/quebec/quebec.html"/>
+      <arg value="build/html/canada/quebec/quebec.html"/>
       </exec>
     </target>
 
@@ -56,4 +59,40 @@
           </filelist>
       </concat>
     </target>
+    <target name="ontario-html" description="Création du fichier ontario.html">
+      <echo message="Création du fichier ontario.html"/>
+      <exec executable="pandoc">
+      <arg value="src/canada/ontario/ontario.md"/>
+      <arg value="-f"/>
+      <arg value="markdown"/>
+      <arg value="-t"/>
+      <arg value="html"/>
+      <arg value="-o"/>
+      <arg value="build/html/canada/ontario/ontario.html"/>
+      </exec>
+    </target>
+    <target name="canada" description="Création du fichier canada.md">
+          <echo message="Création du fichier canada.md"/>
+          <concat destfile="src/canada/canada.md">
+              <filelist >
+                  <file name="src/introduction.md"/>
+                  <file name="src/contact.md"/>
+                  <file name="src/canada/quebec/quebec.md"/>
+                  <file name="src/canada/ontario/ontario.md"/>
+                  <file name="LICENSE"/>
+              </filelist>
+          </concat>
+      </target>
+      <target name="canada-html" description="Création du fichier canada.html">
+        <echo message="Création du fichier canada.html"/>
+        <exec executable="pandoc">
+        <arg value="src/canada/canada.md"/>
+        <arg value="-f"/>
+        <arg value="markdown"/>
+        <arg value="-t"/>
+        <arg value="html"/>
+        <arg value="-o"/>
+        <arg value="build/html/canada/canada.html"/>
+        </exec>
+      </target>
 </project>

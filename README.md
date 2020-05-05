@@ -1,3 +1,4 @@
+
 # Les marchands de bois pour l'ébénisterie.
 
 Ceci est un document comportant des liens vers des marchands de bois pour l'ébénisterie. Destiné principalement aux amateurs ébénistes, il peut bien sûr être utiles à tout le monde.
@@ -6,12 +7,13 @@ Si vous êtes marchand et que vous n'êtes pas mentionné, contactez moi et je v
 
 Si vous avez des suggestions n'hésitez pas à me contacter.
 
-Les mises à jour seront annoncées via ma page Facebook: @lefoudesbois.
+Les mises à jour seront annoncées via ma page Facebook: @lefoudesbois.  
 
 # Pour me contacter.
 
-### Courriel: info@lefoudesbois.ca
-### Facebook: https://www.facebook.com/LeFouDesBois/
+### Courriel: <info@lefoudesbois.ca>
+### Facebook: <https://www.facebook.com/LeFouDesBois/>
+
 # Québec.
 
 Les liens sont classé par région.
@@ -23,7 +25,7 @@ Les liens sont classé par région.
 
 905 Bd Charest O, Quebec, Quebec G1N 2C9
 
-https://bois-delta.com/
+<https://bois-delta.com/>
 
 418 682 6270
 
@@ -31,7 +33,7 @@ https://bois-delta.com/
 
 2450, de la Concorde, Québec, Qc G1L 4Z5
 
-https://lamusebois.com/
+<https://lamusebois.com/>
 
 418 781 6066
 
@@ -161,6 +163,7 @@ Les adresses sont classées par villes.
 https://kjpselecthardwoods.com/
 
 613 225 6926
+
 # Copyright
 ## MIT License
 ## Copyright (c) 2020 Franck Blanchard
