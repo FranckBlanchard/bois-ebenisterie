@@ -38,7 +38,7 @@ http://li-ma-co.com/
 
 250 rue Laval porte 6, Sherbrooke, QC J1C 0R1
 
-https://www.facebook.com/latelier501/
+<https://www.facebook.com/latelier501/>
 
 450 775 9878
 
@@ -48,7 +48,7 @@ https://www.facebook.com/latelier501/
 
 550 J.Oswald Forest,Saint-Roch-de-l'Achigan, Québec, J0K 3H0
 
-http://www.boiscompex.com/
+<http://www.boiscompex.com/>
 
 450 582 2647
 
@@ -56,7 +56,7 @@ http://www.boiscompex.com/
 
 1540 Rang du Domaine, Sainte-Mélanie, J0K 3A0
 
-http://www.boismalo.com/
+<http://www.boismalo.com/>
 
 450 889 2478
 
@@ -66,7 +66,7 @@ http://www.boismalo.com/
 
 678 Boulevard Industriel, Saint-Eustache, QC J7R 5V3
 
-http://bois-exotique.com/
+<http://bois-exotique.com/>
 
 514 893 6507
 
@@ -76,7 +76,7 @@ http://bois-exotique.com/
 
 4200 Boul Matte, Brossard, QC J4Y 2Z2
 
-http://www.boisfranc-rivesud.qc.ca/fr/
+<http://www.boisfranc-rivesud.qc.ca/fr/>
 
 450 619 1100
 
@@ -96,7 +96,7 @@ http://www.boisfranc-rivesud.qc.ca/fr/
 
 1382 rte de la Cité-des-Jeunes, Saint-Lazare QC J7T 2B8
 
-http://www.scieriejtm.ca/
+<http://www.scieriejtm.ca/>
 
 450 455 9450
 
@@ -104,7 +104,7 @@ http://www.scieriejtm.ca/
 
 740 Rue Jean Neveu, Local 102, Longueuil, QC J4G 1P1
 
-http://www.sdmalo.com/
+<http://www.sdmalo.com/>
 
 450-670-4040
 
@@ -112,7 +112,7 @@ http://www.sdmalo.com/
 
 105, Route 112 Ouest, St-Paul D’Abbotsford, QC J0E 1A0
 
- http://www.forestierstouchette.com/
+ <http://www.forestierstouchette.com/>
 
 450-379-2061
 
@@ -122,7 +122,7 @@ http://www.sdmalo.com/
 
 9995 Boulevard Pie-IX, Montréal, QC H1Z 3X1
 
-https://www.langevinforest.com/fr/
+<https://www.langevinforest.com/fr/>
 
 1 800 889-2060
 
@@ -132,6 +132,6 @@ https://www.langevinforest.com/fr/
 
 1811, Boul Maloney Est, Gatineau, J8R 3z1
 
-https://boutique.artisanebeniste.ca/
+<https://boutique.artisanebeniste.ca/>
 
 819-431-2222

@@ -5,7 +5,7 @@
 
 4200 Boul Matte, Brossard, QC J4Y 2Z2
 
-http://www.boisfranc-rivesud.qc.ca/fr/
+<http://www.boisfranc-rivesud.qc.ca/fr/>
 
 450 619 1100
 
@@ -25,7 +25,7 @@ http://www.boisfranc-rivesud.qc.ca/fr/
 
 1382 rte de la Cité-des-Jeunes, Saint-Lazare QC J7T 2B8
 
-http://www.scieriejtm.ca/
+<http://www.scieriejtm.ca/>
 
 450 455 9450
 
@@ -33,7 +33,7 @@ http://www.scieriejtm.ca/
 
 740 Rue Jean Neveu, Local 102, Longueuil, QC J4G 1P1
 
-http://www.sdmalo.com/
+<http://www.sdmalo.com/>
 
 450-670-4040
 
@@ -41,6 +41,6 @@ http://www.sdmalo.com/
 
 105, Route 112 Ouest, St-Paul D’Abbotsford, QC J0E 1A0
 
- http://www.forestierstouchette.com/
+ <http://www.forestierstouchette.com/>
 
 450-379-2061
