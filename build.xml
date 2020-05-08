@@ -98,6 +98,8 @@
         <arg value="html5"/>
         <arg value="--css"/>
         <arg value="canada.css"/>
+        <arg value="-H"/>
+        <arg value="src/canada/adsense.js"/>
         <arg value="-o"/>
         <arg value="build/html/canada/canada.html"/>
         </exec>
