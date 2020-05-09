@@ -9,14 +9,12 @@
           <antcall target="canada-html"></antcall>
           <antcall target="readme"></antcall>
   </target>
-  <target name="readme" description="Création du fichier readme">
-        <echo message="Création du fichier readme"/>
+  <target name="readme" description="Création du fichier Readme">
+        <echo message="Création du fichier README.md"/>
         <concat destfile="README.md">
             <filelist >
-                <file name="src/introduction.md"/>
+                <file name="src/readme.md"/>
                 <file name="src/contact.md"/>
-                <file name="src/canada/quebec/quebec.md"/>
-                <file name="src/canada/ontario/ontario.md"/>
                 <file name="LICENSE"/>
             </filelist>
         </concat>
@@ -99,7 +97,7 @@
         <arg value="--css"/>
         <arg value="canada.css"/>
         <arg value="-H"/>
-        <arg value="src/canada/adsense.js"/>
+        <arg value="src/asserts/gtag.js"/>
         <arg value="-o"/>
         <arg value="build/html/canada/canada.html"/>
         </exec>
