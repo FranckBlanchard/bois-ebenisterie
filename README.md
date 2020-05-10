@@ -22,7 +22,7 @@ Les sous répertoires seront nommés avec le format de fichier disponible.
 
 ### La version HTML
 
-<src/canada/canada.html>
+[build/canada/canada.html]
 
 ### La version en ligne
 
