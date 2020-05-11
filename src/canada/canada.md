@@ -185,7 +185,7 @@ http://li-ma-co.com/
 
 819-431-2222
 
-# Ontario.
+# Ontario. {#P-Ontario}
 Les adresses sont classées par villes.
 
 ## Ottawa
