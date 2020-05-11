@@ -8,3 +8,11 @@
 <https://www.facebook.com/latelier501/>
 
 450 775 9878
+
+### Boiserie J R S
+
+9071 Boul Bourque, Sherbrooke, QC J1N 0G2
+
+<http://boiseriejrs.com/>
+
+(819) 868-6785

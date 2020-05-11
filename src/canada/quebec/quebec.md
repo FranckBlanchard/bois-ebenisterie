@@ -8,6 +8,7 @@ Les liens sont classé par région.
 [Montréal](#R-06)
 [Outaouais](#R-07)
 [Chaudière-Appalaches](#R-12)
+[Laval](#R-13)
 [Lanaudière](#R-14)
 [Laurentides](#R-15)
 [Montérégie](#R-16)
@@ -50,6 +51,14 @@ http://li-ma-co.com/
 
 450 775 9878
 
+### Boiserie J R S
+
+9071 Boul Bourque, Sherbrooke, QC J1N 0G2
+
+<http://boiseriejrs.com/>
+
+(819) 868-6785
+
 ## Lanaudières. {#R-14}
 
 ### Bois Compex Inc.
@@ -77,6 +86,16 @@ http://li-ma-co.com/
 <http://bois-exotique.com/>
 
 514 893 6507
+
+##Laval {#R-13}
+
+### Arga
+
+1484 Rue de Jaffa, Laval, QC H7P 4K9
+
+<https://www.arga.ca/>
+
+(579) 641-1364
 
 ## Montérégie.  {#R-16}
 
