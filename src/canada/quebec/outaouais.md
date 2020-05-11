@@ -1,5 +1,5 @@
 
-## Outaouais.
+## Outaouais.  {#R-07}
 
 ### L'artisan ébéniste.
 

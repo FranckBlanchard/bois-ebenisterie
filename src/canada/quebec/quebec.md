@@ -1,10 +1,18 @@
 
-# Québec.
+# Québec. {#P-Québec}
 
 Les liens sont classé par région.
 
+[Capitale-National](#R-03)
+[Estrie](#R-05)
+[Montréal](#R-06)
+[Outaouais](#R-07)
+[Chaudière-Appalaches](#R-12)
+[Lanaudière](#R-14)
+[Laurentides](#R-15)
+[Montérégie](#R-16)
 
-## Capitale-Nationale.
+## Capitale-Nationale. {#R-03}
 
 ###  Bois Delta Inc.
 
@@ -22,7 +30,7 @@ Les liens sont classé par région.
 
 418 781 6066
 
-## Chaudière-Appalaches.
+## Chaudière-Appalaches.  {#R-12}
 
 ### LIMACO
 
@@ -32,7 +40,7 @@ http://li-ma-co.com/
 
 418 831 4947
 
-## Estrie.
+## Estrie.  {#R-05}
 
 ### Les Bois 501
 
@@ -42,7 +50,7 @@ http://li-ma-co.com/
 
 450 775 9878
 
-## Lanaudières.
+## Lanaudières. {#R-14}
 
 ### Bois Compex Inc.
 
@@ -60,7 +68,7 @@ http://li-ma-co.com/
 
 450 889 2478
 
-## Laurentides.
+## Laurentides.  {#R-15}
 
 ### Bois-exotique.
 
@@ -70,7 +78,7 @@ http://li-ma-co.com/
 
 514 893 6507
 
-## Montérégie.
+## Montérégie.  {#R-16}
 
 ### Bois Franc Rive-Sud
 
@@ -116,7 +124,7 @@ http://li-ma-co.com/
 
 450-379-2061
 
-## Montréal.
+## Montréal.  {#R-06}
 
 ### Langevin Forest.
 
@@ -126,7 +134,7 @@ http://li-ma-co.com/
 
 1 800 889-2060
 
-## Outaouais.
+## Outaouais.  {#R-07}
 
 ### L'artisan ébéniste.
 
