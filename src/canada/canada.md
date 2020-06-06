@@ -121,6 +121,14 @@ http://li-ma-co.com/
 
 ## Montérégie.  {#R-16}
 
+### Bois Expension
+
+725 rue Gaudette, St-Jean-sur-Richelieu, QC J3B 7S7
+
+<http://www.boisexpansion.com/>
+
+1-866-587-8595
+
 ### Bois Franc Rive-Sud
 
 4200 Boul Matte, Brossard, QC J4Y 2Z2
