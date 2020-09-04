@@ -3,7 +3,7 @@
 
 ### L'artisan ébéniste.
 
-1811, Boul Maloney Est, Gatineau, J8R 3z1
+290B, chemin industriel Gatineau J8R 3N9
 
 <https://boutique.artisanebeniste.ca/>
 
