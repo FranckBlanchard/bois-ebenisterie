@@ -52,3 +52,12 @@
  <http://www.forestierstouchette.com/>
 
 450-379-2061
+
+### Scierie Ormstown
+
+339, route 201 Ormstown, Qc J0S 1K0
+
+<http://www.scierieormstown.com/>
+
+ 450 829-3159
+ 

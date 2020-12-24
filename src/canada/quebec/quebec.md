@@ -3,6 +3,7 @@
 
 Les liens sont classé par région.
 
+[Bas-Saint-Laurent](#R-01)
 [Capitale-National](#R-03)
 [Estrie](#R-05)
 [Montréal](#R-06)
@@ -13,6 +14,18 @@ Les liens sont classé par région.
 [Laurentides](#R-15)
 [Montérégie](#R-16)
 [Centre-du-Québec](#R-17)
+
+## Bas-Saint-Laurent {#R-01}
+
+### Cèdre JD Sirois
+
+18 Route Macnider, Métis-sur-Mer, QC G0J 1S0
+
+<https://cedrejdsirois.com/>
+
+ventes@cedrejdsirois.com
+
+418 936-3033
 
 ## Capitale-Nationale. {#R-03}
 
@@ -38,7 +51,7 @@ Les liens sont classé par région.
 
 401 rue du Grand Tronc, porte #6 Lévis, (Québec), G6K 1K8
 
-http://li-ma-co.com/
+<http://li-ma-co.com/>
 
 418 831 4947
 
@@ -152,6 +165,14 @@ http://li-ma-co.com/
 
 450-379-2061
 
+### Scierie Ormstown
+
+339, route 201 Ormstown, Qc J0S 1K0
+
+<http://www.scierieormstown.com/>
+
+ 450 829-3159
+ 
 ## Montréal.  {#R-06}
 
 ### Langevin Forest.

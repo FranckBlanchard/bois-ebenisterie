@@ -25,6 +25,7 @@
           <filelist >
               <file name="src/canada/quebec/introduction.md"/>
               <file name="src/canada/quebec/menu-regions.md"/>
+              <file name="src/canada/quebec/bas-saint-laurent.md"/>
               <file name="src/canada/quebec/capitale-nationale.md"/>
               <file name="src/canada/quebec/chaudiere-appalaches.md"/>
               <file name="src/canada/quebec/estrie.md"/>
