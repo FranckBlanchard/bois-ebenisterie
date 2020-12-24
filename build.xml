@@ -34,6 +34,7 @@
               <file name="src/canada/quebec/monteregie.md"/>
               <file name="src/canada/quebec/montreal.md"/>
               <file name="src/canada/quebec/outaouais.md"/>
+              <file name="src/canada/quebec/centre-du-quebec.md"/>
           </filelist>
       </concat>
     </target>

@@ -12,6 +12,7 @@ Les liens sont classé par région.
 [Lanaudière](#R-14)
 [Laurentides](#R-15)
 [Montérégie](#R-16)
+[Centre-du-Québec](#R-17)
 
 ## Capitale-Nationale. {#R-03}
 
@@ -170,3 +171,25 @@ http://li-ma-co.com/
 <https://boutique.artisanebeniste.ca/>
 
 819-431-2222
+
+### Bois D.V.
+
+131 Principale,Fassett (Québec) Canada J0V 1H0
+
+<https://www.boisdv.ca/fr/>
+
+info@boisdv.ca
+
+1 866 427 5185
+
+## Centre-du-Québec {#R-17}
+
+### Can-Am
+
+1425 QC-139, Wickham, QC J0C 1S0
+
+<https://www.canamlumber.com/>
+
+canamlumber@canamlumber.com
+
+1 819-398-1159

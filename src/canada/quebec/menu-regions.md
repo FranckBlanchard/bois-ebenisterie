@@ -8,3 +8,4 @@
 [Lanaudière](#R-14)
 [Laurentides](#R-15)
 [Montérégie](#R-16)
+[Centre-du-Québec](#R-17)
