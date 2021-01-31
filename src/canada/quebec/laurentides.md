@@ -8,3 +8,11 @@
 <http://bois-exotique.com/>
 
 514 893 6507
+
+### DZD inc.
+
+450 Roland Godard, St. Jérôme, Qc J7Y 4G8
+
+<https://www.dzdhardwood.com>
+
+450 431 1643
