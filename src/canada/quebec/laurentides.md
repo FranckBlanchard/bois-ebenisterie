@@ -13,6 +13,6 @@
 
 450 Roland Godard, St. Jérôme, Qc J7Y 4G8
 
-<https://www.dzdhardwood.com>
+<https://www.dzdhardwood.com/>
 
 450 431 1643

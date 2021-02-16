@@ -49,11 +49,30 @@ ventes@cedrejdsirois.com
 
 418 936-3033
 
+### Les Produits Forestiers Lavoie
+
+954, route 185, Saint-Antonin QC G0L2J0
+
+<http://www.lesproduitsforestierslavoie.com/>
+
+info@produitsforestierslavoie.com
+
+418 862-2549
+
+### L’Étoffe Rustique
+
+716 Boulevard St Germain, Rimouski, QC G5L 3S4
+
+http://etofferustique.com/
+
+dominique@etofferustique.com
+
+418-721-0127 
 ## Capitale-Nationale. {#R-03}
 
 ###  Bois Delta Inc.
 
-905 Bd Charest O, Quebec, Quebec G1N 2C9
+905 Bd Charest O, Quebec, Qc G1N 2C9
 
 <https://bois-delta.com/>
 
@@ -67,7 +86,7 @@ ventes@cedrejdsirois.com
 
 418 781 6066
 
-### Spécibois
+### Spécibois.
 
 7680 Boulevard Sainte-Anne, Château-Richer, QC G0A 1N0
 
@@ -77,11 +96,20 @@ ventes@cedrejdsirois.com
 
 ### Scierie Éloi Moisan inc. 
 
-20, route 354 Saint-Gilbert, Québec G0A 3T0 
+20, route 354 Saint-Gilbert, Qc G0A 3T0 
 
 <https://eloimoisan.com/>
 
 418-268-3232 /  1-888-968-3232
+
+### Bois A1 select.
+
+7656 Ave Royale, Château-Richer, Qc G0A 1N0
+
+<http://www.boisa1select.com/>
+
+ 418 634-5454
+
 
 ## Chaudière-Appalaches.  {#R-12}
 
@@ -143,7 +171,7 @@ ventes@cedrejdsirois.com
 
 450 Roland Godard, St. Jérôme, Qc J7Y 4G8
 
-<https://www.dzdhardwood.com>
+<https://www.dzdhardwood.com/>
 
 450 431 1643
 
