@@ -52,7 +52,6 @@
       <arg value="build/html/canada/quebec/quebec.html"/>
       </exec>
     </target>
-
     <target name="ontario" description="Création du fichier ontario.md">
       <echo message="Création du fichier ontario.md"/>
       <concat destfile="src/canada/ontario/ontario.md">
