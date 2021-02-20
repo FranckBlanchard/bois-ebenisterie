@@ -43,15 +43,15 @@
 
 <http://www.sdmalo.com/>
 
-450-670-4040
+450 670 4040
 
 ### Produits Forestiers Touchette (2010) Inc.
 
 105, Route 112 Ouest, St-Paul D’Abbotsford, QC J0E 1A0
 
- <http://www.forestierstouchette.com/>
+<http://www.forestierstouchette.com/>
 
-450-379-2061
+450 379 2061
 
 ### Scierie Ormstown
 
@@ -59,5 +59,5 @@
 
 <http://www.scierieormstown.com/>
 
- 450 829-3159
- 
+450 829 3159
+  

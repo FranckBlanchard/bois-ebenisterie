@@ -26,6 +26,7 @@ Les mises à jour seront annoncées via ma page Facebook:  [Le Fou des Bois](htt
 Les liens sont classé par région.
 
 [Bas-Saint-Laurent](#R-01)
+[Saguenay-Lac-Saint-Jean](#R-02)
 [Capitale-National](#R-03)
 [Estrie](#R-05)
 [Montréal](#R-06)
@@ -37,9 +38,9 @@ Les liens sont classé par région.
 [Montérégie](#R-16)
 [Centre-du-Québec](#R-17)
 
-## Bas-Saint-Laurent {#R-01}
+## Bas-Saint-Laurent. {#R-01}
 
-### Cèdre JD Sirois
+### Cèdre JD Sirois.
 
 18 Route Macnider, Métis-sur-Mer, QC G0J 1S0
 
@@ -49,7 +50,7 @@ ventes@cedrejdsirois.com
 
 418 936-3033
 
-### Les Produits Forestiers Lavoie
+### Les Produits Forestiers Lavoie.
 
 954, route 185, Saint-Antonin QC G0L2J0
 
@@ -59,7 +60,7 @@ info@produitsforestierslavoie.com
 
 418 862-2549
 
-### L’Étoffe Rustique
+### L’Étoffe Rustique.
 
 716 Boulevard St Germain, Rimouski, QC G5L 3S4
 
@@ -68,6 +69,15 @@ http://etofferustique.com/
 dominique@etofferustique.com
 
 418-721-0127 
+
+## Saguenay-Lac-Saint-Jean. {#R-02}
+
+### Fran Lou.
+
+398 Route 169, Sainte-Jeanne-d'Arc, QC G0W 1E0
+
+418 276 0409
+
 ## Capitale-Nationale. {#R-03}
 
 ###  Bois Delta Inc.
@@ -229,15 +239,15 @@ dominique@etofferustique.com
 
 <http://www.sdmalo.com/>
 
-450-670-4040
+450 670 4040
 
 ### Produits Forestiers Touchette (2010) Inc.
 
 105, Route 112 Ouest, St-Paul D’Abbotsford, QC J0E 1A0
 
- <http://www.forestierstouchette.com/>
+<http://www.forestierstouchette.com/>
 
-450-379-2061
+450 379 2061
 
 ### Scierie Ormstown
 
@@ -245,8 +255,8 @@ dominique@etofferustique.com
 
 <http://www.scierieormstown.com/>
 
- 450 829-3159
- 
+450 829 3159
+  
 ## Montréal.  {#R-06}
 
 ### Langevin Forest.

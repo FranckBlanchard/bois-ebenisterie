@@ -1,5 +1,6 @@
 
 [Bas-Saint-Laurent](#R-01)
+[Saguenay-Lac-Saint-Jean](#R-02)
 [Capitale-National](#R-03)
 [Estrie](#R-05)
 [Montréal](#R-06)
