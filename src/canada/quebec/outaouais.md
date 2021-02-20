@@ -7,7 +7,7 @@
 
 <https://boutique.artisanebeniste.ca/>
 
-819-431-2222
+819 431 2222
 
 ### Bois D.V.
 

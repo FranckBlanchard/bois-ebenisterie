@@ -7,7 +7,7 @@
 
 <http://www.boisexpansion.com/>
 
-1-866-587-8595
+1 866 587 8595
 
 ### Bois Franc Rive-Sud
 
@@ -60,4 +60,3 @@
 <http://www.scierieormstown.com/>
 
 450 829 3159
-  

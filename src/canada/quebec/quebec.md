@@ -26,7 +26,7 @@ Les liens sont classé par région.
 
 ventes@cedrejdsirois.com
 
-418 936-3033
+418 936 3033
 
 ### Les Produits Forestiers Lavoie.
 
@@ -42,11 +42,11 @@ info@produitsforestierslavoie.com
 
 716 Boulevard St Germain, Rimouski, QC G5L 3S4
 
-http://etofferustique.com/
+<http://etofferustique.com/>
 
 dominique@etofferustique.com
 
-418-721-0127 
+418 721 0127
 
 ## Saguenay-Lac-Saint-Jean. {#R-02}
 
@@ -82,9 +82,9 @@ dominique@etofferustique.com
 
 418 824 3647
 
-### Scierie Éloi Moisan inc. 
+### Scierie Éloi Moisan inc.
 
-20, route 354 Saint-Gilbert, Qc G0A 3T0 
+20, route 354 Saint-Gilbert, Qc G0A 3T0
 
 <https://eloimoisan.com/>
 
@@ -96,8 +96,7 @@ dominique@etofferustique.com
 
 <http://www.boisa1select.com/>
 
- 418 634-5454
-
+ 418 634 5454
 
 ## Chaudière-Appalaches.  {#R-12}
 
@@ -125,7 +124,7 @@ dominique@etofferustique.com
 
 <http://boiseriejrs.com/>
 
-(819) 868-6785
+(819) 868 6785
 
 ## Lanaudières. {#R-14}
 
@@ -171,7 +170,7 @@ dominique@etofferustique.com
 
 <https://www.arga.ca/>
 
-(579) 641-1364
+579 641 1364
 
 ## Montérégie.  {#R-16}
 
@@ -181,7 +180,7 @@ dominique@etofferustique.com
 
 <http://www.boisexpansion.com/>
 
-1-866-587-8595
+1 866 587 8595
 
 ### Bois Franc Rive-Sud
 
@@ -234,7 +233,7 @@ dominique@etofferustique.com
 <http://www.scierieormstown.com/>
 
 450 829 3159
-  
+
 ## Montréal.  {#R-06}
 
 ### Langevin Forest.
@@ -243,7 +242,7 @@ dominique@etofferustique.com
 
 <https://www.langevinforest.com/fr/>
 
-1 800 889-2060
+1 800 889 2060
 
 ## Outaouais.  {#R-07}
 
@@ -253,7 +252,7 @@ dominique@etofferustique.com
 
 <https://boutique.artisanebeniste.ca/>
 
-819-431-2222
+819 431 2222
 
 ### Bois D.V.
 

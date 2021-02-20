@@ -7,4 +7,4 @@
 
 <https://www.langevinforest.com/fr/>
 
-1 800 889-2060
+1 800 889 2060

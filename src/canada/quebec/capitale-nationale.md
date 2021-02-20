@@ -25,9 +25,9 @@
 
 418 824 3647
 
-### Scierie Éloi Moisan inc. 
+### Scierie Éloi Moisan inc.
 
-20, route 354 Saint-Gilbert, Qc G0A 3T0 
+20, route 354 Saint-Gilbert, Qc G0A 3T0
 
 <https://eloimoisan.com/>
 
@@ -39,5 +39,4 @@
 
 <http://www.boisa1select.com/>
 
- 418 634-5454
-
+ 418 634 5454

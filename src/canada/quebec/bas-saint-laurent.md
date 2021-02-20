@@ -9,7 +9,7 @@
 
 ventes@cedrejdsirois.com
 
-418 936-3033
+418 936 3033
 
 ### Les Produits Forestiers Lavoie.
 
@@ -25,8 +25,8 @@ info@produitsforestierslavoie.com
 
 716 Boulevard St Germain, Rimouski, QC G5L 3S4
 
-http://etofferustique.com/
+<http://etofferustique.com/>
 
 dominique@etofferustique.com
 
-418-721-0127 
+418 721 0127
