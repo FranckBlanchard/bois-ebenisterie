@@ -25,7 +25,7 @@
 
 3191 rang 8 est, Plessisville, QC G6L 2Y2
 
-<http://www.boisverco.com>
+<http://www.boisverco.com/>
 
 <boisverco@gmail.com>
 

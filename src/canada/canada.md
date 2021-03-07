@@ -246,6 +246,8 @@ dominique@etofferustique.com
 
 <http://www.forestierstouchette.com/>
 
+<touchette@bellnet.ca>
+
 450 379 2061
 
 ### Scierie Ormstown
@@ -312,7 +314,7 @@ info@boisdv.ca
 
 3191 rang 8 est, Plessisville, QC G6L 2Y2
 
-<http://www.boisverco.com>
+<http://www.boisverco.com/>
 
 <boisverco@gmail.com>
 

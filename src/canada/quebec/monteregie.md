@@ -51,6 +51,8 @@
 
 <http://www.forestierstouchette.com/>
 
+<touchette@bellnet.ca>
+
 450 379 2061
 
 ### Scierie Ormstown
