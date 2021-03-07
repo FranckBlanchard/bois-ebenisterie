@@ -7,9 +7,9 @@
 
 <https://www.canamlumber.com/>
 
-canamlumber@canamlumber.com
+<canamlumber@canamlumber.com>
 
-1 819-398-1159
+1 819 398 1159
 
 ### Lechesne inc.
 
@@ -17,6 +17,17 @@ canamlumber@canamlumber.com
 
 <https://www.lechesne.com/>
 
-infovictoriaville@lechesne.com
+<infovictoriaville@lechesne.com>
 
 1.877.755.5162
+
+### Boisverco inc.
+
+3191 rang 8 est, Plessisville, QC G6L 2Y2
+
+<www.boisverco.com>
+
+<boisverco@gmail.com>
+
+1 819 362 6649
+
