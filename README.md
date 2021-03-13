@@ -26,7 +26,7 @@ Les sous répertoires seront nommés avec le format de fichier disponible.
 
 ### La version en ligne
 
-La version en ligne est ici: [Marchands Canadiens](http://lefoudesbois.ca/documentation/ebenisterie/marchands/bois/canada/canada.html)
+La version en ligne est ici: [Marchands Canadiens](https://lefoudesbois.ca/documentation/ebenisterie/marchands/bois/canada/canada.html)
 
 # Contribuer
 

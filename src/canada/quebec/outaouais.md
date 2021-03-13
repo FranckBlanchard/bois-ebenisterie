@@ -15,6 +15,6 @@
 
 <https://www.boisdv.ca/fr/>
 
-info@boisdv.ca
+<info@boisdv.ca>
 
 1 866 427 5185

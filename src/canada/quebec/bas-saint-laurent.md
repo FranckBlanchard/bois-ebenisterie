@@ -7,7 +7,7 @@
 
 <https://cedrejdsirois.com/>
 
-ventes@cedrejdsirois.com
+<ventes@cedrejdsirois.com>
 
 418 936 3033
 
@@ -17,7 +17,7 @@ ventes@cedrejdsirois.com
 
 <http://www.lesproduitsforestierslavoie.com/>
 
-info@produitsforestierslavoie.com
+<info@produitsforestierslavoie.com>
 
 418 862-2549
 
@@ -27,6 +27,6 @@ info@produitsforestierslavoie.com
 
 <http://etofferustique.com/>
 
-dominique@etofferustique.com
+<dominique@etofferustique.com>
 
 418 721 0127
