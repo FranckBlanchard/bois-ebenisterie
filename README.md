@@ -22,7 +22,7 @@ Les sous répertoires seront nommés avec le format de fichier disponible.
 
 ### La version HTML
 
-[build/html/canada/canada.html]
+[build/html/canada/canada.html](https://github.com/FranckBlanchard/bois-ebenisterie/tree/master/build/html/canada)
 
 ### La version en ligne
 
