@@ -11,8 +11,18 @@
 
 ### Bois Malo.
 
-1540 Rang du Domaine, Sainte-Mélanie, J0K 3A0
+1540 Rang du Domaine, Sainte-Mélanie, QC J0K 3A0
 
 <http://www.boismalo.com/>
 
 450 889 2478
+
+### Centre de pin, JL Ouellette
+
+3675A Georges-Corbeil, Terrebonne, QC J6X 4J5
+
+<http://jlocentredepin.com/fr/>
+
+450 477 4141
+
+<info@jlocentredepin.com>

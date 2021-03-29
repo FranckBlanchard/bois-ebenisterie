@@ -46,9 +46,11 @@ Les liens sont classé par région.
 
 <https://cedrejdsirois.com/>
 
+418 936 3033
+
 <ventes@cedrejdsirois.com>
 
-418 936 3033
+
 
 ### Les Produits Forestiers Lavoie.
 
@@ -56,9 +58,10 @@ Les liens sont classé par région.
 
 <http://www.lesproduitsforestierslavoie.com/>
 
+418 862 2549
+
 <info@produitsforestierslavoie.com>
 
-418 862-2549
 
 ### L’Étoffe Rustique.
 
@@ -66,9 +69,11 @@ Les liens sont classé par région.
 
 <http://etofferustique.com/>
 
+418 721 0127
+
 <dominique@etofferustique.com>
 
-418 721 0127
+
 
 ## Saguenay-Lac-Saint-Jean. {#R-02}
 
@@ -169,11 +174,21 @@ Les liens sont classé par région.
 
 ### Bois Malo.
 
-1540 Rang du Domaine, Sainte-Mélanie, J0K 3A0
+1540 Rang du Domaine, Sainte-Mélanie, QC J0K 3A0
 
 <http://www.boismalo.com/>
 
 450 889 2478
+
+### Centre de pin, JL Ouellette
+
+3675A Georges-Corbeil, Terrebonne, QC J6X 4J5
+
+<http://jlocentredepin.com/fr/>
+
+450 477 4141
+
+<info@jlocentredepin.com>
 
 ## Laurentides.  {#R-15}
 
@@ -266,6 +281,16 @@ Les liens sont classé par région.
 <http://www.scierieormstown.com/>
 
 450 829 3159
+
+### Centre de pin Montérégie, JL Ouellette
+
+2277 blvd Industriel Chambly,QC J3L 4W3
+
+<https://centredepinmonteregie.ca/>
+
+581 849 6639
+
+<info@centredepinmonteregie.ca>
 
 ## Montréal.  {#R-06}
 

@@ -7,9 +7,11 @@
 
 <https://cedrejdsirois.com/>
 
+418 936 3033
+
 <ventes@cedrejdsirois.com>
 
-418 936 3033
+
 
 ### Les Produits Forestiers Lavoie.
 
@@ -17,9 +19,10 @@
 
 <http://www.lesproduitsforestierslavoie.com/>
 
+418 862 2549
+
 <info@produitsforestierslavoie.com>
 
-418 862-2549
 
 ### L’Étoffe Rustique.
 
@@ -27,6 +30,8 @@
 
 <http://etofferustique.com/>
 
+418 721 0127
+
 <dominique@etofferustique.com>
 
-418 721 0127
+

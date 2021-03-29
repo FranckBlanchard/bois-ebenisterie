@@ -62,3 +62,13 @@
 <http://www.scierieormstown.com/>
 
 450 829 3159
+
+### Centre de pin Montérégie, JL Ouellette
+
+2277 blvd Industriel Chambly,QC J3L 4W3
+
+<https://centredepinmonteregie.ca/>
+
+581 849 6639
+
+<info@centredepinmonteregie.ca>
