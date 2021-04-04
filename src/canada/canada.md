@@ -276,7 +276,7 @@ Les liens sont classé par région.
 
 ### Scierie Ormstown
 
-339, route 201 Ormstown, Qc J0S 1K0
+339, route 201, Ormstown, Qc J0S 1K0
 
 <http://www.scierieormstown.com/>
 
@@ -284,7 +284,7 @@ Les liens sont classé par région.
 
 ### Centre de pin Montérégie, JL Ouellette
 
-2277 blvd Industriel Chambly,QC J3L 4W3
+2277 blvd Industriel, Chambly,QC J3L 4W3
 
 <https://centredepinmonteregie.ca/>
 
