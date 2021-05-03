@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<project name="memo-linux" default="all">
+<project name="Marchands de bois" default="all">
   <target name="all">
           <antcall target="quebec"></antcall>
           <antcall target="quebec-html"></antcall>
