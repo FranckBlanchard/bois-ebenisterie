@@ -5,7 +5,7 @@
 [Estrie](#R-05)
 [Montréal](#R-06)
 [Outaouais](#R-07)
-[Abitibi-Témiscamingue] (#R-08)
+[Abitibi-Témiscamingue](#R-08)
 [Chaudière-Appalaches](#R-12)
 [Laval](#R-13)
 [Lanaudière](#R-14)
