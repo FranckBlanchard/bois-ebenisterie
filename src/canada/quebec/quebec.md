@@ -9,6 +9,7 @@ Les liens sont classé par région.
 [Estrie](#R-05)
 [Montréal](#R-06)
 [Outaouais](#R-07)
+[Abitibi-Témiscamingue] (#R-08)
 [Chaudière-Appalaches](#R-12)
 [Laval](#R-13)
 [Lanaudière](#R-14)
@@ -105,23 +106,6 @@ Les liens sont classé par région.
 
  418 634 5454
 
-## Chaudière-Appalaches.  {#R-12}
-
-### LIMACO
-
-401 rue du Grand Tronc, porte #6 Lévis, QC G6K 1K8
-
-<http://li-ma-co.com/>
-
-418 831 4947
-
-### Scierie A M St-Pierre Inc.
-
-316 4e Rang, Saint-Aubert, QC G0R 2R0
-
-418 598 3505
-
-
 ## Estrie.  {#R-05}
 
 ### Les Bois 501
@@ -139,6 +123,74 @@ Les liens sont classé par région.
 <http://boiseriejrs.com/>
 
 (819) 868 6785
+
+## Montréal.  {#R-06}
+
+### Langevin Forest.
+
+9995 Boulevard Pie-IX, Montréal, QC H1Z 3X1
+
+<https://www.langevinforest.com/fr/>
+
+1 800 889 2060
+
+## Outaouais.  {#R-07}
+
+### L'artisan ébéniste.
+
+290B, chemin industriel Gatineau J8R 3N9
+
+<https://boutique.artisanebeniste.ca/>
+
+819 431 2222
+
+### Bois D.V.
+
+131 Principale,Fassett (Québec) Canada J0V 1H0
+
+<https://www.boisdv.ca/fr/>
+
+<info@boisdv.ca>
+
+1 866 427 5185
+
+## Abitibi-Témiscamingue. {#R-08}
+
+### Bionor
+
+4035 rang hull, rouyn-noranda, QC, J9Y 1B4
+
+<http://www.bionor.ca/>
+
+819 797 9758
+
+<info@bionor.ca>
+## Chaudière-Appalaches.  {#R-12}
+
+### LIMACO
+
+401 rue du Grand Tronc, porte #6 Lévis, QC G6K 1K8
+
+<http://li-ma-co.com/>
+
+418 831 4947
+
+### Scierie A M St-Pierre Inc.
+
+316 4e Rang, Saint-Aubert, QC G0R 2R0
+
+418 598 3505
+
+
+##Laval {#R-13}
+
+### Arga
+
+1484 Rue de Jaffa, Laval, QC H7P 4K9
+
+<https://www.arga.ca/>
+
+579 641 1364
 
 ## Lanaudières. {#R-14}
 
@@ -186,15 +238,15 @@ Les liens sont classé par région.
 
 450 431 1643
 
-##Laval {#R-13}
+### Services forestiers des Sommets
 
-### Arga
+79 chemin Cochet, Rivière-Rouge Qc, J0T 1T0
 
-1484 Rue de Jaffa, Laval, QC H7P 4K9
+<https://www.sfsommets.com/>
 
-<https://www.arga.ca/>
+819 341 7214
 
-579 641 1364
+<p.torreblanca@sfsommets.com>
 
 ## Montérégie.  {#R-16}
 
@@ -269,36 +321,6 @@ Les liens sont classé par région.
 581 849 6639
 
 <info@centredepinmonteregie.ca>
-
-## Montréal.  {#R-06}
-
-### Langevin Forest.
-
-9995 Boulevard Pie-IX, Montréal, QC H1Z 3X1
-
-<https://www.langevinforest.com/fr/>
-
-1 800 889 2060
-
-## Outaouais.  {#R-07}
-
-### L'artisan ébéniste.
-
-290B, chemin industriel Gatineau J8R 3N9
-
-<https://boutique.artisanebeniste.ca/>
-
-819 431 2222
-
-### Bois D.V.
-
-131 Principale,Fassett (Québec) Canada J0V 1H0
-
-<https://www.boisdv.ca/fr/>
-
-<info@boisdv.ca>
-
-1 866 427 5185
 
 ## Centre-du-Québec {#R-17}
 
