@@ -62,6 +62,16 @@ Les liens sont classé par région.
 
 418 276 0409
 
+### Distribution Cuisilam Inc.
+
+1749 boulevard St-Paul, Chicoutimi, QC, G7J 3Y3
+
+<https://www.cuisilam.com/>
+
+418 545 1700
+
+<info@cuisilam.com>
+
 ## Capitale-Nationale. {#R-03}
 
 ###  Bois Delta Inc.
