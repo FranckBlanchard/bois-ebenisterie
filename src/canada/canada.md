@@ -281,6 +281,16 @@ Les liens sont classé par région.
 
 <p.torreblanca@sfsommets.com>
 
+### Écobois
+
+205, Chemin Ste-Marguerite, Sainte-Marguerite-du-Lac-Masson Qc J0T 1L0
+
+<https://www.ecobois.ca/>
+
+450 228-4333
+
+<ecobois9@gmail.com>
+
 ## Montérégie.  {#R-16}
 
 ### Bois Expension
