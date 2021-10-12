@@ -144,6 +144,15 @@ Les liens sont classé par région.
 
 1 800 889 2060
 
+### Robert Bury
+
+3500 Pitfield St. Laurent, Quebec, QC H4S 1W1
+
+<https://robertbury.com/fr/>
+
+1 800 363 0562
+
+
 ## Outaouais.  {#R-07}
 
 ### L'artisan ébéniste.
