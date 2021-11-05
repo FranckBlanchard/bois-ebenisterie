@@ -6,7 +6,9 @@
           <antcall target="ontario"></antcall>
           <antcall target="ontario-html"></antcall>
           <antcall target="canada"></antcall>
+          <antcall target="canada-lfdb"></antcall>
           <antcall target="canada-html"></antcall>
+          <antcall target="canada-lfdb-html"></antcall>
           <antcall target="readme"></antcall>
   </target>
   <target name="readme" description="Création du fichier Readme">
@@ -87,6 +89,18 @@
               </filelist>
           </concat>
       </target>
+      <target name="canada-lfdb" description="Création du fichier canada-lfdb.md">
+          <echo message="Création du fichier canada.md"/>
+          <concat destfile="src/canada/canada-lfdb.md">
+              <filelist >
+                  <file name="src/introduction.md"/>
+                  <file name="src/contact.md"/>
+                  <file name="src/canada/menu-province.md"/>
+                  <file name="src/canada/quebec/quebec.md"/>
+                  <file name="src/canada/ontario/ontario.md"/>
+              </filelist>
+          </concat>
+      </target>
       <target name="canada-html" description="Création du fichier canada.html">
         <echo message="Création du fichier canada.html"/>
         <echo message="Transfert du fichier css"/>
@@ -105,6 +119,14 @@
         <arg value="src/asserts/gtag.js"/>
         <arg value="-o"/>
         <arg value="build/html/canada/canada.html"/>
+        </exec>
+      </target>
+      <target name="canada-lfdb-html" description="Création du fichier canada-lfdb.html">
+        <echo message="Création du fichier canada-lfdb.html"/>
+        <exec executable="pandoc">
+        <arg value="src/canada/canada-lfdb.md"/>
+        <arg value="-o"/>
+        <arg value="build/html/canada/canada-lfdb.html"/>
         </exec>
       </target>
 </project>
