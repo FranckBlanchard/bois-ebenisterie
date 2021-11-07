@@ -2,6 +2,7 @@
 <project name="Marchands de bois" default="all">
   <target name="all">
           <antcall target="quebec"></antcall>
+          <antcall target="quebec-lfdb"></antcall>
           <antcall target="quebec-html"></antcall>
           <antcall target="ontario"></antcall>
           <antcall target="ontario-html"></antcall>
@@ -27,6 +28,27 @@
           <filelist >
               <file name="src/canada/quebec/introduction.md"/>
               <file name="src/canada/quebec/menu-regions.md"/>
+              <file name="src/canada/quebec/bas-saint-laurent.md"/>
+              <file name="src/canada/quebec/saguenay-lac-saint-jean.md"/>
+              <file name="src/canada/quebec/capitale-nationale.md"/>
+              <file name="src/canada/quebec/estrie.md"/>
+              <file name="src/canada/quebec/montreal.md"/>
+              <file name="src/canada/quebec/outaouais.md"/>
+              <file name="src/canada/quebec/abitibi-temiscamingue.md"/>
+              <file name="src/canada/quebec/chaudiere-appalaches.md"/>
+              <file name="src/canada/quebec/laval.md"/>
+              <file name="src/canada/quebec/lanaudiere.md"/>
+              <file name="src/canada/quebec/laurentides.md"/>
+              <file name="src/canada/quebec/monteregie.md"/>
+              <file name="src/canada/quebec/centre-du-quebec.md"/>
+          </filelist>
+      </concat>
+    </target>
+    <target name="quebec-lfdb" description="Création du fichier quebec-lfdb.md">
+      <echo message="Création du fichier quebec-lfdb.md"/>
+      <concat destfile="src/canada/quebec/quebec-lfdb.md">
+          <filelist >
+              <file name="src/canada/quebec/introduction.md"/>
               <file name="src/canada/quebec/bas-saint-laurent.md"/>
               <file name="src/canada/quebec/saguenay-lac-saint-jean.md"/>
               <file name="src/canada/quebec/capitale-nationale.md"/>
@@ -93,10 +115,7 @@
           <echo message="Création du fichier canada.md"/>
           <concat destfile="src/canada/canada-lfdb.md">
               <filelist >
-                  <file name="src/introduction.md"/>
-                  <file name="src/contact.md"/>
-                  <file name="src/canada/menu-province.md"/>
-                  <file name="src/canada/quebec/quebec.md"/>
+                  <file name="src/canada/quebec/quebec-lfdb.md"/>
                   <file name="src/canada/ontario/ontario.md"/>
               </filelist>
           </concat>
