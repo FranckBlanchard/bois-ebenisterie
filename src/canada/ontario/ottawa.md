@@ -7,4 +7,12 @@
 
 <https://kjpselecthardwoods.com/>
 
-613 225 6926
+1 613 225 6926
+
+### Robert Bury
+
+1881 Bantree St, Ottawa, ON K1B 4X3
+
+<https://robertbury.com/fr/>
+
+1 613 747 2879

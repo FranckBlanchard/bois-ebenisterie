@@ -388,13 +388,23 @@ Les liens sont classé par région.
 
 ### Lechesne inc.
 
-805 rue de l'Artisan, Victoriaville, QC G6T 1V3 
+805 rue de l'Artisan, Victoriaville, QC G6T 1V3
 
 <https://www.lechesne.com/>
 
 <infovictoriaville@lechesne.com>
 
 1.877.755.5162
+
+### Lechesne inc.
+
+705 rue Cormier, Drummondville, QC J2C 6P7
+
+<https://www.lechesne.com/>
+
+<infodrummondville@lechesne.com>
+
+1 877 252 6611
 
 ### Boisverco inc.
 
@@ -406,6 +416,13 @@ Les liens sont classé par région.
 
 1 819 362 6649
 
+### Robert Bury
+
+5300 Armand Viau, Quebec, QC G2C 1Y7
+
+<https://robertbury.com/fr/>
+
+1 418 872 2879
 
 # Ontario. {#P-Ontario}
 Les adresses sont classées par villes.
@@ -418,7 +435,15 @@ Les adresses sont classées par villes.
 
 <https://kjpselecthardwoods.com/>
 
-613 225 6926
+1 613 225 6926
+
+### Robert Bury
+
+1881 Bantree St, Ottawa, ON K1B 4X3
+
+<https://robertbury.com/fr/>
+
+1 613 747 2879
 
 # Copyright
 ## MIT License

@@ -22,11 +22,11 @@ Les sous répertoires seront nommés avec le format de fichier disponible.
 
 ### La version HTML
 
-[build/canada/canada.html]
+[build/canada/canada.html](https://github.com/FranckBlanchard/bois-ebenisterie/tree/master/build/html/canada)
 
 ### La version en ligne
 
-La version en ligne est ici: [Marchands Canadiens](http://lefoudesbois.ca/documentation/ebenisterie/marchands/bois/canada/canada.html)
+La version en ligne est ici: [Marchands Canadiens](http://lefoudesbois.ca/marchands-de-bois.php)
 
 # Contribuer
 
