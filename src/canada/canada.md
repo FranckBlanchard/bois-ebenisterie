@@ -177,14 +177,6 @@ Les liens sont classé par région.
 
 ## Outaouais.  {#R-07}
 
-### L'artisan ébéniste.
-
-290B, chemin industriel Gatineau J8R 3N9
-
-<https://boutique.artisanebeniste.ca/>
-
-819 431 2222
-
 ### Bois D.V.
 
 131 Principale,Fassett (Québec) Canada J0V 1H0
@@ -299,6 +291,16 @@ Les liens sont classé par région.
 450 228-4333
 
 <ecobois9@gmail.com>
+
+###Bois maron
+
+295, boulevard Albert-Mondou,St-Eustache QC J7R 7A7
+
+<https://boismaron.com/>
+
+<demande@boismaron.com>
+
+1 800 668 4040
 
 ## Montérégie.  {#R-16}
 
