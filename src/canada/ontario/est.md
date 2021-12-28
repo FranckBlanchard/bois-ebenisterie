@@ -1,6 +1,5 @@
 
-## Est {#R-est}
-
+## Région Est {#R-est}
 
 ### KJP Select Hardwoods.
 

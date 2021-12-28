@@ -437,8 +437,7 @@ Les liens sont classé par région.
 # Ontario. {#P-Ontario}
 Les adresses sont classées par région.
 
-## Est {#R-est}
-
+## Région Est {#R-est}
 
 ### KJP Select Hardwoods.
 
