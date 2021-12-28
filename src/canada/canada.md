@@ -179,13 +179,21 @@ Les liens sont classé par région.
 
 ### Bois D.V.
 
-131 Principale,Fassett (Québec) Canada J0V 1H0
+131 Principale,Fassett (Québec) QC J0V 1H0
 
 <https://www.boisdv.ca/fr/>
 
 <info@boisdv.ca>
 
 1 866 427 5185
+
+### Pro Pin Gatineau
+
+324A Chemin Industriel, Gatineau, QC J8R 3N9
+
+<https://pro-pin.ca/>
+
+1 819 663-5666
 
 ## Abitibi-Témiscamingue. {#R-08}
 
@@ -427,9 +435,10 @@ Les liens sont classé par région.
 1 418 872 2879
 
 # Ontario. {#P-Ontario}
-Les adresses sont classées par villes.
+Les adresses sont classées par région.
 
-## Ottawa
+## Est {#R-est}
+
 
 ### KJP Select Hardwoods.
 
@@ -446,6 +455,14 @@ Les adresses sont classées par villes.
 <https://robertbury.com/fr/>
 
 1 613 747 2879
+
+### Sandfield Lumber & Wood Products
+
+17891 McPhail Rd, Martintown, ON K0C 1S0
+
+<https://sand-field-custom-furniture.business.site/>
+
+1 613 363 1222
 
 # Copyright
 ## MIT License

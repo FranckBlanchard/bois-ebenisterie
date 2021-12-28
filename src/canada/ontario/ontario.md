@@ -1,8 +1,9 @@
 
 # Ontario. {#P-Ontario}
-Les adresses sont classées par villes.
+Les adresses sont classées par région.
 
-## Ottawa
+## Est {#R-est}
+
 
 ### KJP Select Hardwoods.
 
@@ -19,3 +20,11 @@ Les adresses sont classées par villes.
 <https://robertbury.com/fr/>
 
 1 613 747 2879
+
+### Sandfield Lumber & Wood Products
+
+17891 McPhail Rd, Martintown, ON K0C 1S0
+
+<https://sand-field-custom-furniture.business.site/>
+
+1 613 363 1222
