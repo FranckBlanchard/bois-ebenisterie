@@ -82,7 +82,7 @@
       <concat destfile="src/canada/ontario/ontario.md">
           <filelist >
               <file name="src/canada/ontario/introduction.md"/>
-              <file name="src/canada/ontario/ottawa.md"/>
+              <file name="src/canada/ontario/est.md"/>
           </filelist>
       </concat>
     </target>
