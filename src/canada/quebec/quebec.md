@@ -72,6 +72,12 @@ Les liens sont classé par région.
 
 <info@cuisilam.com>
 
+### Fleurs Coupées Chicoutimi Inc.
+
+596 Bd du Saguenay O, Chicoutimi, QC G7J 1H4
+
+418 549 0648
+
 ## Capitale-Nationale. {#R-03}
 
 ###  Bois Delta Inc.
@@ -132,7 +138,7 @@ Les liens sont classé par région.
 
 <http://boiseriejrs.com/>
 
-(819) 868 6785
+819 868 6785
 
 ## Montréal.  {#R-06}
 
@@ -185,6 +191,16 @@ Les liens sont classé par région.
 
 <info@bionor.ca>
 
+## Gaspésie–Îles-de-la-Madeleine.  {#R-11}
+
+### Bois JL
+
+164 b route Saint-Louis, Carleton-sur-Mer, QC
+
+418 392 3111
+
+<jackileblanc@hotmail.com>
+
 ## Chaudière-Appalaches.  {#R-12}
 
 ### LIMACO
@@ -202,7 +218,7 @@ Les liens sont classé par région.
 418 598 3505
 
 
-##Laval {#R-13}
+## Laval {#R-13}
 
 ### Arga
 
@@ -239,6 +255,22 @@ Les liens sont classé par région.
 450 477 4141
 
 <info@jlocentredepin.com>
+
+### Sc creart entreprises inc.
+
+239 littoral, Saint Paul de Joliette, QC J0K 3E0
+
+514 757 1417
+
+### Bois Desroches
+
+640 2e Ramsay, St-Félix de Valois, QC J0K 2M0
+
+<https://www.boisdesroches.com/>
+
+<lesboisdesroches@gmail.com>
+
+450 889 2222
 
 ## Laurentides.  {#R-15}
 

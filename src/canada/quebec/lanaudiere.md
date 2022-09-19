@@ -26,3 +26,19 @@
 450 477 4141
 
 <info@jlocentredepin.com>
+
+### Sc creart entreprises inc.
+
+239 littoral, Saint Paul de Joliette, QC J0K 3E0
+
+514 757 1417
+
+### Bois Desroches
+
+640 2e Ramsay, St-Félix de Valois, QC J0K 2M0
+
+<https://www.boisdesroches.com/>
+
+<lesboisdesroches@gmail.com>
+
+450 889 2222

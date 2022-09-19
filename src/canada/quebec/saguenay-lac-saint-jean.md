@@ -16,3 +16,9 @@
 418 545 1700
 
 <info@cuisilam.com>
+
+### Fleurs Coupées Chicoutimi Inc.
+
+596 Bd du Saguenay O, Chicoutimi, QC G7J 1H4
+
+418 549 0648
