@@ -27,3 +27,13 @@ Les adresses sont classées par région.
 <https://sand-field-custom-furniture.business.site/>
 
 1 613 363 1222
+
+### The WoodSource Inc.
+
+6178 Mitch Owens Road, Manotick, ON K4M 0V2
+
+<https://wood-source.com/>
+
+info@wood-source.com
+
+1 613-822-6800

@@ -92,7 +92,7 @@ Les liens sont classé par région.
 
 ### Scierie Éloi Moisan inc.
 
-20, route 354 Saint-Gilbert, Qc G0A 3T0
+20, route 354 Saint-Gilbert, QC G0A 3T0
 
 <https://eloimoisan.com/>
 
@@ -100,7 +100,7 @@ Les liens sont classé par région.
 
 ### Bois A1 select.
 
-7656 Ave Royale, Château-Richer, Qc G0A 1N0
+7656 Ave Royale, Château-Richer, QC G0A 1N0
 
 <http://www.boisa1select.com/>
 
@@ -108,11 +108,29 @@ Les liens sont classé par région.
 
  418 634 5454
 
+### Robert Bury & Cie.
+
+5300 Rue Armand-Viau, Québec, QC G2C 1Y7
+
+<https://robertbury.com/fr/>
+
+418 872 2879
+
+### Scierie Blouin/De Bois Blouin.
+
+100 Chemin du Moulin, St-Jean Ile d'Orléans QC G0A 3W0
+
+<https://www.deboisblouin.com>
+
+<info@deboisblouin.com>
+
+418 829 3483
+
 ## Estrie.  {#R-05}
 
 ### Les Bois 501
 
-250 rue Laval porte 6, Sherbrooke, QC J1C 0R1
+980 route 222, Maricourt, QC J0E2L2
 
 <https://www.facebook.com/latelier501/>
 
@@ -125,6 +143,24 @@ Les liens sont classé par région.
 <http://boiseriejrs.com/>
 
 819 868 6785
+
+### J.O. Noël Houle & fils Inc.
+
+4700 Chem. de Sainte-Catherine, Sherbrooke, QC J1N 0E7
+
+<https://mouluresjonh.com/>
+
+1 800 565 6273
+
+### Scierie Ferland
+
+1245, rue Main, Ayer's Cliff, Québec, J0B 1C0
+
+<https://scierieferland.com/fr/>
+
+819.838.4266
+
+<info@scierieferland.com>
 
 ## Montréal.  {#R-06}
 
@@ -296,7 +332,7 @@ Les liens sont classé par région.
 
 <ecobois9@gmail.com>
 
-###Bois maron
+### Bois maron
 
 295, boulevard Albert-Mondou,St-Eustache QC J7R 7A7
 
