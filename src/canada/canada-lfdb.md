@@ -108,6 +108,14 @@ Les liens sont classé par région.
 
  418 634 5454
 
+### Robert Bury & Cie
+
+5300 Rue Armand-Viau, Québec, QC G2C 1Y7
+
+<https://robertbury.com/fr/>
+
+418 872 2879
+
 ## Estrie.  {#R-05}
 
 ### Les Bois 501
@@ -125,6 +133,24 @@ Les liens sont classé par région.
 <http://boiseriejrs.com/>
 
 819 868 6785
+
+### J.O. Noël Houle & fils Inc.
+
+4700 Chem. de Sainte-Catherine, Sherbrooke, QC J1N 0E7
+
+<https://mouluresjonh.com/>
+
+1 800 565 6273
+
+### Scierie Ferland
+
+1245, rue Main, Ayer's Cliff, Québec, J0B 1C0
+
+<https://scierieferland.com/fr/>
+
+819.838.4266
+
+<info@scierieferland.com>
 
 ## Montréal.  {#R-06}
 
@@ -296,7 +322,7 @@ Les liens sont classé par région.
 
 <ecobois9@gmail.com>
 
-###Bois maron
+### Bois maron
 
 295, boulevard Albert-Mondou,St-Eustache QC J7R 7A7
 
