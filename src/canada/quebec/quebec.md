@@ -122,7 +122,11 @@ Les liens sont classé par région.
 
  418 634 5454
 
+<<<<<<< HEAD
 ### Robert Bury & Cie.
+=======
+### Robert Bury & Cie
+>>>>>>> 191f0aa525662cc60cd09cb109622c21d1056a06
 
 5300 Rue Armand-Viau, Québec, QC G2C 1Y7
 
@@ -130,6 +134,7 @@ Les liens sont classé par région.
 
 418 872 2879
 
+<<<<<<< HEAD
 ### Scierie Blouin/De Bois Blouin.
 
 100 Chemin du Moulin, St-Jean Ile d'Orléans QC G0A 3W0
@@ -140,6 +145,8 @@ Les liens sont classé par région.
 
 418 829 3483
 
+=======
+>>>>>>> 191f0aa525662cc60cd09cb109622c21d1056a06
 ## Estrie.  {#R-05}
 
 ### Les Bois 501
