@@ -1,13 +1,13 @@
 
 ## Montérégie.  {#R-16}
 
-### Bois Expension
+### Bois Expansion
 
 725 rue Gaudette, St-Jean-sur-Richelieu, QC J3B 7S7
 
-<http://www.boisexpansion.com/>
+<https://www.boisexpansion.com/>
 
-1 866 587 8595
+450 358 3900 / 1 866 587 8595
 
 ### Bois Franc Rive-Sud
 

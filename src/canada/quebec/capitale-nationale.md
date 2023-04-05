@@ -43,18 +43,13 @@
 
  418 634 5454
 
-<<<<<<< HEAD
-### Robert Bury & Cie.
-=======
 ### Robert Bury & Cie
->>>>>>> 191f0aa525662cc60cd09cb109622c21d1056a06
 
 5300 Rue Armand-Viau, Québec, QC G2C 1Y7
 
 <https://robertbury.com/fr/>
 
 418 872 2879
-<<<<<<< HEAD
 
 ### Scierie Blouin/De Bois Blouin.
 
@@ -65,5 +60,3 @@
 <info@deboisblouin.com>
 
 418 829 3483
-=======
->>>>>>> 191f0aa525662cc60cd09cb109622c21d1056a06

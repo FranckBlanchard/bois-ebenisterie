@@ -17,3 +17,10 @@
 
 1 800 363 0562
 
+### Bois Expansion
+
+9750 Boul. St-Laurent, Montréal, QC H3L 2N3
+
+<https://www.boisexpansion.com/>
+
+514 381 5626 / 1 800 959 6770

@@ -108,11 +108,7 @@ Les liens sont classé par région.
 
  418 634 5454
 
-<<<<<<< HEAD
-### Robert Bury & Cie.
-=======
 ### Robert Bury & Cie
->>>>>>> 191f0aa525662cc60cd09cb109622c21d1056a06
 
 5300 Rue Armand-Viau, Québec, QC G2C 1Y7
 
@@ -120,7 +116,6 @@ Les liens sont classé par région.
 
 418 872 2879
 
-<<<<<<< HEAD
 ### Scierie Blouin/De Bois Blouin.
 
 100 Chemin du Moulin, St-Jean Ile d'Orléans QC G0A 3W0
@@ -131,8 +126,6 @@ Les liens sont classé par région.
 
 418 829 3483
 
-=======
->>>>>>> 191f0aa525662cc60cd09cb109622c21d1056a06
 ## Estrie.  {#R-05}
 
 ### Les Bois 501
@@ -187,6 +180,13 @@ Les liens sont classé par région.
 
 1 800 363 0562
 
+### Bois Expansion
+
+9750 Boul. St-Laurent, Montréal, QC H3L 2N3
+
+<https://www.boisexpansion.com/>
+
+514 381 5626 / 1 800 959 6770
 
 ## Outaouais.  {#R-07}
 
@@ -351,13 +351,13 @@ Les liens sont classé par région.
 
 ## Montérégie.  {#R-16}
 
-### Bois Expension
+### Bois Expansion
 
 725 rue Gaudette, St-Jean-sur-Richelieu, QC J3B 7S7
 
-<http://www.boisexpansion.com/>
+<https://www.boisexpansion.com/>
 
-1 866 587 8595
+450 358 3900 / 1 866 587 8595
 
 ### Bois Franc Rive-Sud
 
