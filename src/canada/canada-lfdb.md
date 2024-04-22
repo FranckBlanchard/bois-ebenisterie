@@ -423,6 +423,14 @@ Les liens sont classé par région.
 
 <info@centredepinmonteregie.ca>
 
+### Cambiumex Inc.
+
+1580 Rue Casavant, Mont-Saint-Hilaire, QC J3H 0L2
+
+<https://www.cambiumex.com/>
+
+450 536 0100
+
 ### Exulon Produits Forestiers inc.
 
 899, Chemin Benoit, Mont-Saint-Hilaire, QC J3H 0L6
