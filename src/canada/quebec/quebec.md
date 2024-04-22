@@ -415,9 +415,9 @@ Les liens sont classé par région.
 
 <http://www.forestierstouchette.com/>
 
-<touchette@bellnet.ca>
-
 450 379 2061
+
+<touchette@bellnet.ca>
 
 ### Scierie Ormstown
 
@@ -436,6 +436,16 @@ Les liens sont classé par région.
 581 849 6639
 
 <info@centredepinmonteregie.ca>
+
+### Exulon Produits Forestiers inc.
+
+899, Chemin Benoit, Mont-Saint-Hilaire, QC J3H 0L6
+
+<http://www.exulon.com/>
+
+450 536 0100
+
+<info@cambiumex.com>
 
 ## Centre-du-Québec {#R-17}
 
