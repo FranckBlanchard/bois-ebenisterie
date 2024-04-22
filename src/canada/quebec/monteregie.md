@@ -75,7 +75,7 @@
 
 ### Cambiumex Inc.
 
-1580 Rue Casavant, Mont-Saint-Hilaire, QC J3H 0L2
+899 chemin Benoit,Mont-Saint-Hilaire,QC, J3H 0L6
 
 <https://www.cambiumex.com/>
 

@@ -34,3 +34,13 @@
 819.838.4266
 
 <info@scierieferland.com>
+
+### Atelier Chic Rustique
+
+250, rue Laval, Sherbrooke, CA J1C OR1
+
+<https://www.chic-rustique.com/>
+
+<info@chic-rustique.com>
+
+819 239 6025

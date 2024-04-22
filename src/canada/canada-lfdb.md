@@ -162,6 +162,16 @@ Les liens sont classé par région.
 
 <info@scierieferland.com>
 
+### Atelier Chic Rustique
+
+250, rue Laval, Sherbrooke, CA J1C OR1
+
+<https://www.chic-rustique.com/>
+
+<info@chic-rustique.com>
+
+819 239 6025
+
 ## Montréal.  {#R-06}
 
 ### Langevin Forest.
@@ -425,7 +435,7 @@ Les liens sont classé par région.
 
 ### Cambiumex Inc.
 
-1580 Rue Casavant, Mont-Saint-Hilaire, QC J3H 0L2
+899 chemin Benoit,Mont-Saint-Hilaire,QC, J3H 0L6
 
 <https://www.cambiumex.com/>
 
