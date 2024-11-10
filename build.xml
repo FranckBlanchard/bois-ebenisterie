@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <project name="Marchands de bois" default="all">
-  <target name="all">
-          <antcall target="quebec"></antcall>
-          <antcall target="quebec-lfdb"></antcall>
-          <antcall target="quebec-html"></antcall>
-          <antcall target="ontario"></antcall>
-          <antcall target="ontario-html"></antcall>
-          <antcall target="canada"></antcall>
-          <antcall target="canada-lfdb"></antcall>
-          <antcall target="canada-html"></antcall>
-          <antcall target="canada-lfdb-html"></antcall>
-          <antcall target="readme"></antcall>
-  </target>
-  <target name="readme" description="Création du fichier Readme">
+    <target name="all">
+        <antcall target="quebec"></antcall>
+        <antcall target="quebec-lfdb"></antcall>
+        <antcall target="quebec-html"></antcall>
+        <antcall target="ontario"></antcall>
+        <antcall target="ontario-html"></antcall>
+        <antcall target="canada"></antcall>
+        <antcall target="canada-lfdb"></antcall>
+        <antcall target="canada-html"></antcall>
+        <antcall target="canada-lfdb-html"></antcall>
+        <antcall target="readme"></antcall>
+    </target>
+    <target name="readme" description="Création du fichier Readme">
         <echo message="Création du fichier README.md"/>
         <concat destfile="README.md">
             <filelist >
@@ -23,131 +23,133 @@
         </concat>
     </target>
     <target name="quebec" description="Création du fichier quebec.md">
-      <echo message="Création du fichier quebec.md"/>
-      <concat destfile="src/canada/quebec/quebec.md">
-          <filelist >
-              <file name="src/canada/quebec/introduction.md"/>
-              <file name="src/canada/quebec/menu-regions.md"/>
-              <file name="src/canada/quebec/bas-saint-laurent.md"/>
-              <file name="src/canada/quebec/saguenay-lac-saint-jean.md"/>
-              <file name="src/canada/quebec/capitale-nationale.md"/>
-              <file name="src/canada/quebec/estrie.md"/>
-              <file name="src/canada/quebec/montreal.md"/>
-              <file name="src/canada/quebec/outaouais.md"/>
-              <file name="src/canada/quebec/abitibi-temiscamingue.md"/>
-              <file name="src/canada/quebec/gaspesie–iles-de-la-madeleine.md"/>
-              <file name="src/canada/quebec/chaudiere-appalaches.md"/>
-              <file name="src/canada/quebec/laval.md"/>
-              <file name="src/canada/quebec/lanaudiere.md"/>
-              <file name="src/canada/quebec/laurentides.md"/>
-              <file name="src/canada/quebec/monteregie.md"/>
-              <file name="src/canada/quebec/centre-du-quebec.md"/>
-          </filelist>
-      </concat>
+        <echo message="Création du fichier quebec.md"/>
+        <concat destfile="src/canada/quebec/quebec.md">
+            <filelist >
+                <file name="src/canada/quebec/introduction.md"/>
+                <file name="src/canada/quebec/menu-regions.md"/>
+                <file name="src/canada/quebec/bas-saint-laurent.md"/>
+                <file name="src/canada/quebec/saguenay-lac-saint-jean.md"/>
+                <file name="src/canada/quebec/capitale-nationale.md"/>
+                <file name="src/canada/quebec/mauricie.md"/>
+                <file name="src/canada/quebec/estrie.md"/>
+                <file name="src/canada/quebec/montreal.md"/>
+                <file name="src/canada/quebec/outaouais.md"/>
+                <file name="src/canada/quebec/abitibi-temiscamingue.md"/>
+                <file name="src/canada/quebec/gaspesie–iles-de-la-madeleine.md"/>
+                <file name="src/canada/quebec/chaudiere-appalaches.md"/>
+                <file name="src/canada/quebec/laval.md"/>
+                <file name="src/canada/quebec/lanaudiere.md"/>
+                <file name="src/canada/quebec/laurentides.md"/>
+                <file name="src/canada/quebec/monteregie.md"/>
+                <file name="src/canada/quebec/centre-du-quebec.md"/>
+            </filelist>
+        </concat>
     </target>
     <target name="quebec-lfdb" description="Création du fichier quebec-lfdb.md">
-      <echo message="Création du fichier quebec-lfdb.md"/>
-      <concat destfile="src/canada/quebec/quebec-lfdb.md">
-          <filelist >
-              <file name="src/canada/quebec/introduction.md"/>
-              <file name="src/canada/quebec/bas-saint-laurent.md"/>
-              <file name="src/canada/quebec/saguenay-lac-saint-jean.md"/>
-              <file name="src/canada/quebec/capitale-nationale.md"/>
-              <file name="src/canada/quebec/estrie.md"/>
-              <file name="src/canada/quebec/montreal.md"/>
-              <file name="src/canada/quebec/outaouais.md"/>
-              <file name="src/canada/quebec/abitibi-temiscamingue.md"/>
-              <file name="src/canada/quebec/gaspesie–iles-de-la-madeleine.md"/>
-              <file name="src/canada/quebec/chaudiere-appalaches.md"/>
-              <file name="src/canada/quebec/laval.md"/>
-              <file name="src/canada/quebec/lanaudiere.md"/>
-              <file name="src/canada/quebec/laurentides.md"/>
-              <file name="src/canada/quebec/monteregie.md"/>
-              <file name="src/canada/quebec/centre-du-quebec.md"/>
-          </filelist>
-      </concat>
+        <echo message="Création du fichier quebec-lfdb.md"/>
+        <concat destfile="src/canada/quebec/quebec-lfdb.md">
+            <filelist >
+                <file name="src/canada/quebec/introduction.md"/>
+                <file name="src/canada/quebec/bas-saint-laurent.md"/>
+                <file name="src/canada/quebec/saguenay-lac-saint-jean.md"/>
+                <file name="src/canada/quebec/capitale-nationale.md"/>
+                <file name="src/canada/quebec/mauricie.md"/>
+                <file name="src/canada/quebec/estrie.md"/>
+                <file name="src/canada/quebec/montreal.md"/>
+                <file name="src/canada/quebec/outaouais.md"/>
+                <file name="src/canada/quebec/abitibi-temiscamingue.md"/>
+                <file name="src/canada/quebec/gaspesie–iles-de-la-madeleine.md"/>
+                <file name="src/canada/quebec/chaudiere-appalaches.md"/>
+                <file name="src/canada/quebec/laval.md"/>
+                <file name="src/canada/quebec/lanaudiere.md"/>
+                <file name="src/canada/quebec/laurentides.md"/>
+                <file name="src/canada/quebec/monteregie.md"/>
+                <file name="src/canada/quebec/centre-du-quebec.md"/>
+            </filelist>
+        </concat>
     </target>
     <target name="quebec-html" description="Création du fichier quebec.html">
-      <echo message="Création du fichier quebec.html"/>
-      <exec executable="pandoc">
-      <arg value="src/canada/quebec/quebec.md"/>
-      <arg value="-f"/>
-      <arg value="markdown"/>
-      <arg value="-t"/>
-      <arg value="html"/>
-      <arg value="-o"/>
-      <arg value="build/html/canada/quebec/quebec.html"/>
-      </exec>
+        <echo message="Création du fichier quebec.html"/>
+        <exec executable="pandoc">
+            <arg value="src/canada/quebec/quebec.md"/>
+            <arg value="-f"/>
+            <arg value="markdown"/>
+            <arg value="-t"/>
+            <arg value="html"/>
+            <arg value="-o"/>
+            <arg value="build/html/canada/quebec/quebec.html"/>
+        </exec>
     </target>
     <target name="ontario" description="Création du fichier ontario.md">
-      <echo message="Création du fichier ontario.md"/>
-      <concat destfile="src/canada/ontario/ontario.md">
-          <filelist >
-              <file name="src/canada/ontario/introduction.md"/>
-              <file name="src/canada/ontario/est.md"/>
-          </filelist>
-      </concat>
+        <echo message="Création du fichier ontario.md"/>
+        <concat destfile="src/canada/ontario/ontario.md">
+            <filelist >
+                <file name="src/canada/ontario/introduction.md"/>
+                <file name="src/canada/ontario/est.md"/>
+            </filelist>
+        </concat>
     </target>
     <target name="ontario-html" description="Création du fichier ontario.html">
-      <echo message="Création du fichier ontario.html"/>
-      <exec executable="pandoc">
-      <arg value="src/canada/ontario/ontario.md"/>
-      <arg value="-f"/>
-      <arg value="markdown"/>
-      <arg value="-t"/>
-      <arg value="html"/>
-      <arg value="-o"/>
-      <arg value="build/html/canada/ontario/ontario.html"/>
-      </exec>
+        <echo message="Création du fichier ontario.html"/>
+        <exec executable="pandoc">
+            <arg value="src/canada/ontario/ontario.md"/>
+            <arg value="-f"/>
+            <arg value="markdown"/>
+            <arg value="-t"/>
+            <arg value="html"/>
+            <arg value="-o"/>
+            <arg value="build/html/canada/ontario/ontario.html"/>
+        </exec>
     </target>
     <target name="canada" description="Création du fichier canada.md">
-          <echo message="Création du fichier canada.md"/>
-          <concat destfile="src/canada/canada.md">
-              <filelist >
-                  <file name="src/introduction.md"/>
-                  <file name="src/contact.md"/>
-                  <file name="src/canada/menu-province.md"/>
-                  <file name="src/canada/quebec/quebec.md"/>
-                  <file name="src/canada/ontario/ontario.md"/>
-                  <file name="LICENSE"/>
-              </filelist>
-          </concat>
-      </target>
-      <target name="canada-lfdb" description="Création du fichier canada-lfdb.md">
-          <echo message="Création du fichier canada.md"/>
-          <concat destfile="src/canada/canada-lfdb.md">
-              <filelist >
-                  <file name="src/canada/quebec/quebec-lfdb.md"/>
-                  <file name="src/canada/ontario/ontario.md"/>
-              </filelist>
-          </concat>
-      </target>
-      <target name="canada-html" description="Création du fichier canada.html">
+        <echo message="Création du fichier canada.md"/>
+        <concat destfile="src/canada/canada.md">
+            <filelist >
+                <file name="src/introduction.md"/>
+                <file name="src/contact.md"/>
+                <file name="src/canada/menu-province.md"/>
+                <file name="src/canada/quebec/quebec.md"/>
+                <file name="src/canada/ontario/ontario.md"/>
+                <file name="LICENSE"/>
+            </filelist>
+        </concat>
+    </target>
+    <target name="canada-lfdb" description="Création du fichier canada-lfdb.md">
+        <echo message="Création du fichier canada.md"/>
+        <concat destfile="src/canada/canada-lfdb.md">
+            <filelist >
+                <file name="src/canada/quebec/quebec-lfdb.md"/>
+                <file name="src/canada/ontario/ontario.md"/>
+            </filelist>
+        </concat>
+    </target>
+    <target name="canada-html" description="Création du fichier canada.html">
         <echo message="Création du fichier canada.html"/>
         <echo message="Transfert du fichier css"/>
         <copy file="src/canada/canada.css" todir="build/html/canada/"/>
         <echo message="Génération de canada.html."/>
         <exec executable="pandoc">
-        <arg value="-s"/>
-        <arg value="src/canada/canada.md"/>
-        <arg value="-f"/>
-        <arg value="markdown"/>
-        <arg value="-t"/>
-        <arg value="html5"/>
-        <arg value="--css"/>
-        <arg value="canada.css"/>
-        <arg value="-H"/>
-        <arg value="src/asserts/gtag.js"/>
-        <arg value="-o"/>
-        <arg value="build/html/canada/canada.html"/>
+            <arg value="-s"/>
+            <arg value="src/canada/canada.md"/>
+            <arg value="-f"/>
+            <arg value="markdown"/>
+            <arg value="-t"/>
+            <arg value="html5"/>
+            <arg value="--css"/>
+            <arg value="canada.css"/>
+            <arg value="-H"/>
+            <arg value="src/asserts/gtag.js"/>
+            <arg value="-o"/>
+            <arg value="build/html/canada/canada.html"/>
         </exec>
-      </target>
-      <target name="canada-lfdb-html" description="Création du fichier canada-lfdb.html">
+    </target>
+    <target name="canada-lfdb-html" description="Création du fichier canada-lfdb.html">
         <echo message="Création du fichier canada-lfdb.html"/>
         <exec executable="pandoc">
-        <arg value="src/canada/canada-lfdb.md"/>
-        <arg value="-o"/>
-        <arg value="build/html/canada/canada-lfdb.html"/>
+            <arg value="src/canada/canada-lfdb.md"/>
+            <arg value="-o"/>
+            <arg value="build/html/canada/canada-lfdb.html"/>
         </exec>
-      </target>
+    </target>
 </project>

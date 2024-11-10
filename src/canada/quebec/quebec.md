@@ -6,6 +6,7 @@ Les liens sont classé par région.
 [Bas-Saint-Laurent](#R-01)
 [Saguenay-Lac-Saint-Jean](#R-02)
 [Capitale-National](#R-03)
+[Mauricie](#R-04)
 [Estrie](#R-05)
 [Montréal](#R-06)
 [Outaouais](#R-07)
@@ -23,35 +24,31 @@ Les liens sont classé par région.
 
 18 Route Macnider, Métis-sur-Mer, QC G0J 1S0
 
-<https://cedrejdsirois.com/>
-
 418 936 3033
 
 <ventes@cedrejdsirois.com>
 
-
+<https://cedrejdsirois.com/>
 
 ### Les Produits Forestiers Lavoie.
 
 954, route 185, Saint-Antonin QC G0L2J0
 
-<http://www.lesproduitsforestierslavoie.com/>
-
 418 862 2549
 
 <info@produitsforestierslavoie.com>
 
+<http://www.lesproduitsforestierslavoie.com/>
 
 ### L’Étoffe Rustique.
 
 716 Boulevard St Germain, Rimouski, QC G5L 3S4
 
-<http://etofferustique.com/>
-
 418 721 0127
 
 <dominique@etofferustique.com>
 
+<http://etofferustique.com/>
 
 
 ## Saguenay-Lac-Saint-Jean. {#R-02}
@@ -84,61 +81,95 @@ Les liens sont classé par région.
 
 905 Bd Charest O, Quebec, Qc G1N 2C9
 
-<https://bois-delta.com/>
-
 418 682 6270
+
+<https://bois-delta.com/>
 
 ### La Muse Bois Inc.
 
 2450, de la Concorde, Québec, Qc G1L 4Z5
 
-<https://lamusebois.com/>
-
 418 781 6066
+
+<https://lamusebois.com/>
 
 ### Spécibois.
 
 7680 Boulevard Sainte-Anne, Château-Richer, QC G0A 1N0
 
-<https://specibois.com/>
-
 418 824 3647
+
+<https://specibois.com/>
 
 ### Scierie Éloi Moisan inc.
 
 20, route 354 Saint-Gilbert, QC G0A 3T0
 
-<https://eloimoisan.com/>
+418-268-3232 / 1-888-968-3232
 
-418-268-3232 /  1-888-968-3232
+<https://eloimoisan.com/>
 
 ### Bois A1 select.
 
 7656 Ave Royale, Château-Richer, QC G0A 1N0
 
-<http://www.boisa1select.com/>
-
 <info@boisa1select.com>
 
- 418 634 5454
+418 634 5454
+
+<http://www.boisa1select.com/>
 
 ### Robert Bury & Cie
 
 5300 Rue Armand-Viau, Québec, QC G2C 1Y7
 
-<https://robertbury.com/fr/>
-
 418 872 2879
+
+<https://robertbury.com/fr/>
 
 ### Scierie Blouin/De Bois Blouin.
 
 100 Chemin du Moulin, St-Jean Ile d'Orléans QC G0A 3W0
 
-<https://www.deboisblouin.com>
+418 829 3483
 
 <info@deboisblouin.com>
 
-418 829 3483
+<https://www.deboisblouin.com>
+
+
+## Mauricie. {#R-04}
+
+### Atelier Bro Bois
+
+699 Rue du Marthelinois, Trois-Rivières, QC G8V 1S9
+
+819 375-2647
+
+<info@bro-bois.com>
+
+<https://www.bro-bois.com/>
+
+### Lewis Woods
+
+4620, rue Jean Duchesne, Shawinigan-Sud, QC G9N 6T5
+
+819 247 3153
+
+<l.trottier@lewiswoods.ca>
+
+<https://www.lewiswoods.ca/>
+
+### Scierie Billy Villemure
+
+1990, Rang Saint-Mathieu Est, Shawinigan,QC G9P 4J6
+
+819 383 3761
+
+<billyvillemure@gmail.com>
+
+<https://scieriebillyvillemure.com/>
+
 
 ## Estrie.  {#R-05}
 
@@ -146,45 +177,54 @@ Les liens sont classé par région.
 
 980 route 222, Maricourt, QC J0E2L2
 
-<https://www.facebook.com/latelier501/>
-
 450 775 9878
+
+<https://www.facebook.com/latelier501/>
 
 ### Boiserie J R S
 
 9071 Boul Bourque, Sherbrooke, QC J1N 0G2
 
+819 868 6785
+
 <http://boiseriejrs.com/>
 
-819 868 6785
 
 ### J.O. Noël Houle & fils Inc.
 
 4700 Chem. de Sainte-Catherine, Sherbrooke, QC J1N 0E7
 
-<https://mouluresjonh.com/>
-
 1 800 565 6273
+
+<https://mouluresjonh.com/>
 
 ### Scierie Ferland
 
 1245, rue Main, Ayer's Cliff, Québec, J0B 1C0
 
-<https://scierieferland.com/fr/>
-
-819.838.4266
+819 838 4266
 
 <info@scierieferland.com>
+
+<https://scierieferland.com/fr/>
 
 ### Atelier Chic Rustique
 
 250, rue Laval, Sherbrooke, CA J1C OR1
 
-<https://www.chic-rustique.com/>
+819 239 6025
 
 <info@chic-rustique.com>
 
-819 239 6025
+<https://www.chic-rustique.com/>
+
+### Centre de pin, JL Ouellette
+
+1837, Galt Est, Sherbrooke, QC J1G 3H6
+
+819 346 2525
+
+<https://jlocentredepin.com/>
 
 ## Montréal.  {#R-06}
 
@@ -238,11 +278,11 @@ Les liens sont classé par région.
 
 4035 rang hull, rouyn-noranda, QC, J9Y 1B4
 
-<http://www.bionor.ca/>
-
 819 797 9758
 
 <info@bionor.ca>
+
+<http://www.bionor.ca/>
 
 ## Gaspésie–Îles-de-la-Madeleine.  {#R-11}
 
@@ -260,9 +300,10 @@ Les liens sont classé par région.
 
 401 rue du Grand Tronc, porte #6 Lévis, QC G6K 1K8
 
+418 831 4947
+
 <http://li-ma-co.com/>
 
-418 831 4947
 
 ### Scierie A M St-Pierre Inc.
 
@@ -270,6 +311,13 @@ Les liens sont classé par région.
 
 418 598 3505
 
+### Centre de pin, JL Ouellette
+
+172, rue Industrielle, St-Apollinaire, QC G0S 2E0
+
+418 881 2988
+
+<https://jlocentredepin.com/>
 
 ## Laval {#R-13}
 
@@ -277,9 +325,13 @@ Les liens sont classé par région.
 
 1484 Rue de Jaffa, Laval, QC H7P 4K9
 
+579 641 1364
+
+<info@arga.ca>
+
 <https://www.arga.ca/>
 
-579 641 1364
+
 
 ## Lanaudières. {#R-14}
 
@@ -287,27 +339,28 @@ Les liens sont classé par région.
 
 550 J.Oswald Forest,Saint-Roch-de-l'Achigan, Québec, J0K 3H0
 
+450 582 2647
+
 <http://www.boiscompex.com/>
 
-450 582 2647
 
 ### Bois Malo.
 
 1540 Rang du Domaine, Sainte-Mélanie, QC J0K 3A0
 
-<http://www.boismalo.com/>
-
 450 889 2478
+
+<http://www.boismalo.com/>
 
 ### Centre de pin, JL Ouellette
 
 3675A Georges-Corbeil, Terrebonne, QC J6X 4J5
 
-<http://jlocentredepin.com/fr/>
-
 450 477 4141
 
 <info@jlocentredepin.com>
+
+<http://jlocentredepin.com/fr/>
 
 ### Sc creart entreprises inc.
 
@@ -319,37 +372,36 @@ Les liens sont classé par région.
 
 640 2e Ramsay, St-Félix de Valois, QC J0K 2M0
 
-<https://www.boisdesroches.com/>
+450 889 2222
 
 <lesboisdesroches@gmail.com>
 
-450 889 2222
-
+<https://www.boisdesroches.com/>
 ## Laurentides.  {#R-15}
 
 ### Bois-exotique.
 
 678 Boulevard Industriel, Saint-Eustache, QC J7R 5V3
 
-<http://bois-exotique.com/>
-
 514 893 6507
+
+<http://bois-exotique.com/>
 
 ### DZD inc.
 
 450 Roland Godard, St. Jérôme, Qc J7Y 4G8
 
-<https://www.dzdhardwood.com/>
-
 450 431 1643
+
+<https://www.dzdhardwood.com/>
 
 ### Services forestiers des Sommets
 
 79 chemin Cochet, Rivière-Rouge Qc, J0T 1T0
 
-<https://www.sfsommets.com/>
-
 819 341 7214
+
+<https://www.sfsommets.com/>
 
 <p.torreblanca@sfsommets.com>
 
@@ -357,21 +409,22 @@ Les liens sont classé par région.
 
 205, Chemin Ste-Marguerite, Sainte-Marguerite-du-Lac-Masson Qc J0T 1L0
 
-<https://www.ecobois.ca/>
-
 450 228-4333
 
 <ecobois9@gmail.com>
+
+<https://www.ecobois.ca/>
 
 ### Bois maron
 
 295, boulevard Albert-Mondou,St-Eustache QC J7R 7A7
 
-<https://boismaron.com/>
+1 800 668 4040
 
 <demande@boismaron.com>
 
-1 800 668 4040
+<https://boismaron.com/>
+
 
 ## Montérégie.  {#R-16}
 
@@ -379,17 +432,19 @@ Les liens sont classé par région.
 
 725 rue Gaudette, St-Jean-sur-Richelieu, QC J3B 7S7
 
+450 358 3900 / 1 866 587 8595
+
 <https://www.boisexpansion.com/>
 
-450 358 3900 / 1 866 587 8595
 
 ### Bois Franc Rive-Sud
 
 4200 Boul Matte, Brossard, QC J4Y 2Z2
 
+450 619 1100
+
 <http://www.boisfranc-rivesud.qc.ca/fr/>
 
-450 619 1100
 
 ### Bois M et M.
 
@@ -407,63 +462,68 @@ Les liens sont classé par région.
 
 1382 rte de la Cité-des-Jeunes, Saint-Lazare QC J7T 2B8
 
+450 455 9450
+
 <http://www.scieriejtm.ca/>
 
-450 455 9450
 
 ### Bois S.D. Malo
 
 740 Rue Jean Neveu, Local 102, Longueuil, QC J4G 1P1
 
+450 670 4040
+
 <http://www.sdmalo.com/>
 
-450 670 4040
 
 ### Produits Forestiers Touchette (2010) Inc.
 
 105, Route 112 Ouest, St-Paul D’Abbotsford, QC J0E 1A0
 
-<http://www.forestierstouchette.com/>
-
 450 379 2061
 
 <touchette@bellnet.ca>
+
+<http://www.forestierstouchette.com/>
 
 ### Scierie Ormstown
 
 339, route 201, Ormstown, Qc J0S 1K0
 
+450 829 3159
+
 <http://www.scierieormstown.com/>
 
-450 829 3159
 
 ### Centre de pin Montérégie, JL Ouellette
 
 2277 blvd Industriel, Chambly,QC J3L 4W3
 
-<https://centredepinmonteregie.ca/>
-
 581 849 6639
 
 <info@centredepinmonteregie.ca>
+
+<https://centredepinmonteregie.ca/>
 
 ### Cambiumex Inc.
 
 899 chemin Benoit,Mont-Saint-Hilaire,QC, J3H 0L6
 
+450 536 0100
+
 <https://www.cambiumex.com/>
 
-450 536 0100
 
 ### Exulon Produits Forestiers inc.
 
 899, Chemin Benoit, Mont-Saint-Hilaire, QC J3H 0L6
 
-<http://www.exulon.com/>
-
 450 536 0100
 
 <info@cambiumex.com>
+
+<http://www.exulon.com/>
+
 
 ## Centre-du-Québec {#R-17}
 
@@ -471,46 +531,46 @@ Les liens sont classé par région.
 
 1425 QC-139, Wickham, QC J0C 1S0
 
-<https://www.canamlumber.com/>
+1 819 398 1159
 
 <canamlumber@canamlumber.com>
 
-1 819 398 1159
+<https://www.canamlumber.com/>
 
 ### Lechesne inc.
 
 805 rue de l'Artisan, Victoriaville, QC G6T 1V3
 
-<https://www.lechesne.com/>
+1 877 755 5162
 
 <infovictoriaville@lechesne.com>
 
-1.877.755.5162
+<https://www.lechesne.com/>
 
 ### Lechesne inc.
 
 705 rue Cormier, Drummondville, QC J2C 6P7
 
-<https://www.lechesne.com/>
+1 877 252 6611
 
 <infodrummondville@lechesne.com>
 
-1 877 252 6611
+<https://www.lechesne.com/>
 
 ### Boisverco inc.
 
 3191 rang 8 est, Plessisville, QC G6L 2Y2
 
-<http://www.boisverco.com/>
+1 819 362 6649
 
 <boisverco@gmail.com>
 
-1 819 362 6649
+<http://www.boisverco.com/>
 
 ### Robert Bury
 
 5300 Armand Viau, Quebec, QC G2C 1Y7
 
-<https://robertbury.com/fr/>
-
 1 418 872 2879
+
+<https://robertbury.com/fr/>
