@@ -11,6 +11,7 @@
         <antcall target="canada-html"></antcall>
         <antcall target="canada-lfdb-html"></antcall>
         <antcall target="readme"></antcall>
+        <antcall target="copy-canada-lfdb"></antcall>
     </target>
     <target name="readme" description="Création du fichier Readme">
         <echo message="Création du fichier README.md"/>
@@ -152,4 +153,9 @@
             <arg value="build/html/canada/canada-lfdb.html"/>
         </exec>
     </target>
+    <target name="copy-canada-lfdb" description="Copie du fichier canada-lfdb.html dans lefoudesbois"> 
+        <echo message="Copie du fichier canada-lfdb.html dans le répertoire de lefoudesbois"/> 
+        <copy file="build\html\canada\canada-lfdb.html" tofile="..\lefoudesbois\App\views\marchands-de-bois\canada-lfdb.html"/> 
+    </target>
+        
 </project>

@@ -48,3 +48,13 @@
 1 418 872 2879
 
 <https://robertbury.com/fr/>
+
+### Vexco Inc.
+
+289, Route 165 Sud, C.P. 95, Plessisville, QC G6L 2Y6
+
+819 362 3233
+
+<info@vexco.com>
+
+<https://www.vexco.com/fr.html>

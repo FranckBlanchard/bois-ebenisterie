@@ -53,3 +53,14 @@
 819 346 2525
 
 <https://jlocentredepin.com/>
+
+### Bolduc et Grégoire
+
+148, rue Nord, Cowansville QC J2K 2L
+
+450 263 0282
+
+<info@bolducgregoire.com>
+
+<https://bolducgregoire.com/>
+

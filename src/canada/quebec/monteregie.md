@@ -9,7 +9,6 @@
 
 <https://www.boisexpansion.com/>
 
-
 ### Bois Franc Rive-Sud
 
 4200 Boul Matte, Brossard, QC J4Y 2Z2
@@ -17,7 +16,6 @@
 450 619 1100
 
 <http://www.boisfranc-rivesud.qc.ca/fr/>
-
 
 ### Bois M et M.
 
@@ -39,7 +37,6 @@
 
 <http://www.scieriejtm.ca/>
 
-
 ### Bois S.D. Malo
 
 740 Rue Jean Neveu, Local 102, Longueuil, QC J4G 1P1
@@ -47,7 +44,6 @@
 450 670 4040
 
 <http://www.sdmalo.com/>
-
 
 ### Produits Forestiers Touchette (2010) Inc.
 
@@ -67,7 +63,6 @@
 
 <http://www.scierieormstown.com/>
 
-
 ### Centre de pin Montérégie, JL Ouellette
 
 2277 blvd Industriel, Chambly,QC J3L 4W3
@@ -84,16 +79,6 @@
 
 450 536 0100
 
-<https://www.cambiumex.com/>
-
-
-### Exulon Produits Forestiers inc.
-
-899, Chemin Benoit, Mont-Saint-Hilaire, QC J3H 0L6
-
-450 536 0100
-
 <info@cambiumex.com>
 
-<http://www.exulon.com/>
-
+<https://www.cambiumex.com/>
