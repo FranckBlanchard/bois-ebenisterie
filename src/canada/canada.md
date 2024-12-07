@@ -513,14 +513,6 @@ Les liens sont classé par région.
 
 <http://www.scieriejtm.ca/>
 
-### Bois S.D. Malo
-
-740 Rue Jean Neveu, Local 102, Longueuil, QC J4G 1P1
-
-450 670 4040
-
-<http://www.sdmalo.com/>
-
 ### Produits Forestiers Touchette (2010) Inc.
 
 105, Route 112 Ouest, St-Paul D’Abbotsford, QC J0E 1A0
