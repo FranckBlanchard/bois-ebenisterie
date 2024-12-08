@@ -15,7 +15,7 @@
 
 450 619 1100
 
-<http://www.boisfranc-rivesud.qc.ca/fr/>
+<https://www.boisfranc-rivesud.qc.ca/fr/>
 
 ### Bois M et M.
 
@@ -35,7 +35,9 @@
 
 450 455 9450
 
-<http://www.scieriejtm.ca/>
+<jtmsawmill@gmail.com>
+
+<https://www.scieriejtm.com/>
 
 ### Produits Forestiers Touchette (2010) Inc.
 
@@ -45,7 +47,7 @@
 
 <touchette@bellnet.ca>
 
-<http://www.forestierstouchette.com/>
+<https://boistouchette.com/>
 
 ### Scierie Ormstown
 
@@ -53,7 +55,7 @@
 
 450 829 3159
 
-<http://www.scierieormstown.com/>
+<https://www.scierieormstown.com/>
 
 ### Centre de pin Montérégie, JL Ouellette
 

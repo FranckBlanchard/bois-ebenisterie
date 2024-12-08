@@ -9,4 +9,4 @@
 
 <info@bionor.ca>
 
-<http://www.bionor.ca/>
+<https://bionor.ca/>

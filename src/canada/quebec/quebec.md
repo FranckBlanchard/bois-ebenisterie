@@ -312,7 +312,7 @@ Les liens sont classé par région.
 
 <info@bionor.ca>
 
-<http://www.bionor.ca/>
+<https://bionor.ca/>
 
 ## Gaspésie–Îles-de-la-Madeleine.  {#R-11}
 
@@ -469,7 +469,7 @@ Les liens sont classé par région.
 
 450 619 1100
 
-<http://www.boisfranc-rivesud.qc.ca/fr/>
+<https://www.boisfranc-rivesud.qc.ca/fr/>
 
 ### Bois M et M.
 
@@ -489,7 +489,9 @@ Les liens sont classé par région.
 
 450 455 9450
 
-<http://www.scieriejtm.ca/>
+<jtmsawmill@gmail.com>
+
+<https://www.scieriejtm.com/>
 
 ### Produits Forestiers Touchette (2010) Inc.
 
@@ -499,7 +501,7 @@ Les liens sont classé par région.
 
 <touchette@bellnet.ca>
 
-<http://www.forestierstouchette.com/>
+<https://boistouchette.com/>
 
 ### Scierie Ormstown
 
@@ -507,7 +509,7 @@ Les liens sont classé par région.
 
 450 829 3159
 
-<http://www.scierieormstown.com/>
+<https://www.scierieormstown.com/>
 
 ### Centre de pin Montérégie, JL Ouellette
 

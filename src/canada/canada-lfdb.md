@@ -297,7 +297,7 @@ Les liens sont classé par région.
 
 <info@bionor.ca>
 
-<http://www.bionor.ca/>
+<https://bionor.ca/>
 
 ## Gaspésie–Îles-de-la-Madeleine.  {#R-11}
 
@@ -454,7 +454,7 @@ Les liens sont classé par région.
 
 450 619 1100
 
-<http://www.boisfranc-rivesud.qc.ca/fr/>
+<https://www.boisfranc-rivesud.qc.ca/fr/>
 
 ### Bois M et M.
 
@@ -474,7 +474,9 @@ Les liens sont classé par région.
 
 450 455 9450
 
-<http://www.scieriejtm.ca/>
+<jtmsawmill@gmail.com>
+
+<https://www.scieriejtm.com/>
 
 ### Produits Forestiers Touchette (2010) Inc.
 
@@ -484,7 +486,7 @@ Les liens sont classé par région.
 
 <touchette@bellnet.ca>
 
-<http://www.forestierstouchette.com/>
+<https://boistouchette.com/>
 
 ### Scierie Ormstown
 
@@ -492,7 +494,7 @@ Les liens sont classé par région.
 
 450 829 3159
 
-<http://www.scierieormstown.com/>
+<https://www.scierieormstown.com/>
 
 ### Centre de pin Montérégie, JL Ouellette
 
@@ -583,23 +585,25 @@ Les adresses sont classées par région.
 
 145 Bentley Avenue, Unit 3 Ottawa, ON K2E 6T7
 
-<https://kjpselecthardwoods.com/>
-
 1 613 225 6926
+
+<https://kjpselecthardwoods.com/>
 
 ### Robert Bury
 
 1881 Bantree St, Ottawa, ON K1B 4X3
 
-<https://robertbury.com/fr/>
-
 1 613 747 2879
+
+<https://robertbury.com/fr/>
 
 ### Sandfield Lumber & Wood Products
 
 17891 McPhail Rd, Martintown, ON K0C 1S0
 
-<https://sand-field-custom-furniture.business.site/>
+<sales@sflumber.com>
+
+<https://sflumber.com/>
 
 1 613 363 1222
 
@@ -607,8 +611,8 @@ Les adresses sont classées par région.
 
 6178 Mitch Owens Road, Manotick, ON K4M 0V2
 
-<https://wood-source.com/>
+1 613-822-6800
 
 info@wood-source.com
 
-1 613-822-6800
+<https://wood-source.com/>
