@@ -76,5 +76,5 @@ if (file_exists($filename)) {
     }
 } else {
     // Affiche un message d'erreur si le fichier n'existe pas
-    echo "Le fichier n'existe pas.";
+    echo "Le fichier n'existe pas." . PHP_EOL;
 }
