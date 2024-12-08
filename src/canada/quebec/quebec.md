@@ -50,7 +50,6 @@ Les liens sont classé par région.
 
 <http://etofferustique.com/>
 
-
 ## Saguenay-Lac-Saint-Jean. {#R-02}
 
 ### Fran Lou.
@@ -136,6 +135,16 @@ Les liens sont classé par région.
 <info@deboisblouin.com>
 
 <https://www.deboisblouin.com>
+
+### Ressources Lumber Inc.
+
+1627, Boulevard Bastien, Québec, QC G2K 1H1
+
+418 624 0404
+
+<info@rlumber.ca>
+
+<https://www.rlumber.ca>
 
 
 ## Mauricie. {#R-04}
@@ -226,6 +235,17 @@ Les liens sont classé par région.
 
 <https://jlocentredepin.com/>
 
+### Bolduc et Grégoire
+
+148, rue Nord, Cowansville QC J2K 2L
+
+450 263 0282
+
+<info@bolducgregoire.com>
+
+<https://bolducgregoire.com/>
+
+
 ## Montréal.  {#R-06}
 
 ### Langevin Forest.
@@ -272,6 +292,17 @@ Les liens sont classé par région.
 
 1 819 663-5666
 
+### La Matériauthèque
+
+325 chemin Taché, Cantley, QC J8V 3H3
+
+819 593 9097
+
+<danou@danoucharette.com>
+
+<https://danoucharette.com/>
+
+
 ## Abitibi-Témiscamingue. {#R-08}
 
 ### Bionor
@@ -282,7 +313,7 @@ Les liens sont classé par région.
 
 <info@bionor.ca>
 
-<http://www.bionor.ca/>
+<https://bionor.ca/>
 
 ## Gaspésie–Îles-de-la-Madeleine.  {#R-11}
 
@@ -331,8 +362,6 @@ Les liens sont classé par région.
 
 <https://www.arga.ca/>
 
-
-
 ## Lanaudières. {#R-14}
 
 ### Bois Compex Inc.
@@ -342,7 +371,6 @@ Les liens sont classé par région.
 450 582 2647
 
 <http://www.boiscompex.com/>
-
 
 ### Bois Malo.
 
@@ -377,6 +405,8 @@ Les liens sont classé par région.
 <lesboisdesroches@gmail.com>
 
 <https://www.boisdesroches.com/>
+
+
 ## Laurentides.  {#R-15}
 
 ### Bois-exotique.
@@ -436,15 +466,13 @@ Les liens sont classé par région.
 
 <https://www.boisexpansion.com/>
 
-
 ### Bois Franc Rive-Sud
 
 4200 Boul Matte, Brossard, QC J4Y 2Z2
 
 450 619 1100
 
-<http://www.boisfranc-rivesud.qc.ca/fr/>
-
+<https://www.boisfranc-rivesud.qc.ca/fr/>
 
 ### Bois M et M.
 
@@ -464,17 +492,9 @@ Les liens sont classé par région.
 
 450 455 9450
 
-<http://www.scieriejtm.ca/>
+<jtmsawmill@gmail.com>
 
-
-### Bois S.D. Malo
-
-740 Rue Jean Neveu, Local 102, Longueuil, QC J4G 1P1
-
-450 670 4040
-
-<http://www.sdmalo.com/>
-
+<https://www.scieriejtm.com/>
 
 ### Produits Forestiers Touchette (2010) Inc.
 
@@ -484,7 +504,8 @@ Les liens sont classé par région.
 
 <touchette@bellnet.ca>
 
-<http://www.forestierstouchette.com/>
+
+<https://boistouchette.com/>
 
 ### Scierie Ormstown
 
@@ -492,8 +513,7 @@ Les liens sont classé par région.
 
 450 829 3159
 
-<http://www.scierieormstown.com/>
-
+<https://www.scierieormstown.com/>
 
 ### Centre de pin Montérégie, JL Ouellette
 
@@ -511,18 +531,9 @@ Les liens sont classé par région.
 
 450 536 0100
 
-<https://www.cambiumex.com/>
-
-
-### Exulon Produits Forestiers inc.
-
-899, Chemin Benoit, Mont-Saint-Hilaire, QC J3H 0L6
-
-450 536 0100
-
 <info@cambiumex.com>
 
-<http://www.exulon.com/>
+<https://www.cambiumex.com/>
 
 
 ## Centre-du-Québec {#R-17}
@@ -574,3 +585,14 @@ Les liens sont classé par région.
 1 418 872 2879
 
 <https://robertbury.com/fr/>
+
+### Vexco Inc.
+
+289, Route 165 Sud, C.P. 95, Plessisville, QC G6L 2Y6
+
+819 362 3233
+
+<info@vexco.com>
+
+<https://www.vexco.com/fr.html>
+

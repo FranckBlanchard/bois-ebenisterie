@@ -61,3 +61,13 @@
 
 <https://www.deboisblouin.com>
 
+### Ressources Lumber Inc.
+
+1627, Boulevard Bastien, Québec, QC G2K 1H1
+
+418 624 0404
+
+<info@rlumber.ca>
+
+<https://www.rlumber.ca>
+

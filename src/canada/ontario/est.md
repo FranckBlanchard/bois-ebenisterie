@@ -5,32 +5,35 @@
 
 145 Bentley Avenue, Unit 3 Ottawa, ON K2E 6T7
 
-<https://kjpselecthardwoods.com/>
-
 1 613 225 6926
+
+<https://kjpselecthardwoods.com/>
 
 ### Robert Bury
 
 1881 Bantree St, Ottawa, ON K1B 4X3
 
-<https://robertbury.com/fr/>
-
 1 613 747 2879
+
+<https://robertbury.com/fr/>
 
 ### Sandfield Lumber & Wood Products
 
 17891 McPhail Rd, Martintown, ON K0C 1S0
 
-<https://sand-field-custom-furniture.business.site/>
-
 1 613 363 1222
+
+<sales@sflumber.com>
+
+<https://sflumber.com/>
 
 ### The WoodSource Inc.
 
 6178 Mitch Owens Road, Manotick, ON K4M 0V2
 
-<https://wood-source.com/>
+1 613-822-6800
 
 info@wood-source.com
 
-1 613-822-6800
+<https://wood-source.com/>
+
