@@ -39,4 +39,3 @@ Les adresses sont classées par région.
 info@wood-source.com
 
 <https://wood-source.com/>
-

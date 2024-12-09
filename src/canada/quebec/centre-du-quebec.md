@@ -59,3 +59,20 @@
 
 <https://www.vexco.com/fr.html>
 
+### Primewood
+
+1150 Rue Labonté, Drummondville, QC J2C 5Y4
+
+819 362 7893
+
+<gferron@primewood.com>
+
+<https://www.primewood.com/>
+
+### Amex Bois Franc
+
+2515 Av. Vallée, Plessisville, QC G6L 2Y7
+
+<administration@amexhardwood.com>
+
+<https://www.amexhardwood.com/>

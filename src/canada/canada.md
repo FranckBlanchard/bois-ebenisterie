@@ -70,7 +70,7 @@ Les liens sont classé par région.
 
 <dominique@etofferustique.com>
 
-<http://etofferustique.com/>
+<https://etofferustique.com/>
 
 ## Saguenay-Lac-Saint-Jean. {#R-02}
 
@@ -84,11 +84,11 @@ Les liens sont classé par région.
 
 1749 boulevard St-Paul, Chicoutimi, QC, G7J 3Y3
 
-<https://www.cuisilam.com/>
-
 418 545 1700
 
 <info@cuisilam.com>
+
+<https://www.cuisilam.com/>
 
 ### Fleurs Coupées Chicoutimi Inc.
 
@@ -111,6 +111,8 @@ Les liens sont classé par région.
 2450, de la Concorde, Québec, Qc G1L 4Z5
 
 418 781 6066
+
+<admin@lamusebois.com>
 
 <https://lamusebois.com/>
 
@@ -396,11 +398,13 @@ Les liens sont classé par région.
 
 ### Bois Malo.
 
-1540 Rang du Domaine, Sainte-Mélanie, QC J0K 3A0
+101 rue armand, Ste-Melanie, QC J0K 3A0
 
-450 889 2478
+450 889 6256
 
-<http://www.boismalo.com/>
+<info@sdmalo.com>
+
+<http://www.sdmalo.com/>
 
 ### Centre de pin, JL Ouellette
 
@@ -427,6 +431,16 @@ Les liens sont classé par région.
 <lesboisdesroches@gmail.com>
 
 <https://www.boisdesroches.com/>
+
+### L'artisan du lac
+
+1180 Ernest-Harnois, Joliette, QC J6E 0E8
+
+450 753 7767
+
+<artisandulac@gmail.com>
+
+<https://artisandulac.ca/>
 
 
 ## Laurentides.  {#R-15}
@@ -526,7 +540,6 @@ Les liens sont classé par région.
 
 <touchette@bellnet.ca>
 
-
 <https://boistouchette.com/>
 
 ### Scierie Ormstown
@@ -556,6 +569,16 @@ Les liens sont classé par région.
 <info@cambiumex.com>
 
 <https://www.cambiumex.com/>
+
+### Goodfellow
+
+225 Goodfellow, Delson, QC, J5B 1V5 
+
+450 635 6511
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>
 
 
 ## Centre-du-Québec {#R-17}
@@ -618,6 +641,23 @@ Les liens sont classé par région.
 
 <https://www.vexco.com/fr.html>
 
+### Primewood
+
+1150 Rue Labonté, Drummondville, QC J2C 5Y4
+
+819 362 7893
+
+<gferron@primewood.com>
+
+<https://www.primewood.com/>
+
+### Amex Bois Franc
+
+2515 Av. Vallée, Plessisville, QC G6L 2Y7
+
+<administration@amexhardwood.com>
+
+<https://www.amexhardwood.com/>
 
 # Ontario. {#P-Ontario}
 Les adresses sont classées par région.
@@ -659,7 +699,6 @@ Les adresses sont classées par région.
 info@wood-source.com
 
 <https://wood-source.com/>
-
 
 # Copyright
 ## MIT License

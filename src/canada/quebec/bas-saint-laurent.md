@@ -29,4 +29,4 @@
 
 <dominique@etofferustique.com>
 
-<http://etofferustique.com/>
+<https://etofferustique.com/>

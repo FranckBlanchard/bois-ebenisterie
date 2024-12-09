@@ -15,6 +15,8 @@
 
 418 781 6066
 
+<admin@lamusebois.com>
+
 <https://lamusebois.com/>
 
 ### Spécibois.

@@ -47,7 +47,6 @@
 
 <touchette@bellnet.ca>
 
-
 <https://boistouchette.com/>
 
 ### Scierie Ormstown
@@ -77,4 +76,14 @@
 <info@cambiumex.com>
 
 <https://www.cambiumex.com/>
+
+### Goodfellow
+
+225 Goodfellow, Delson, QC, J5B 1V5 
+
+450 635 6511
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>
 

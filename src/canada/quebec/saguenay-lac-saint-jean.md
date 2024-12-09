@@ -11,11 +11,11 @@
 
 1749 boulevard St-Paul, Chicoutimi, QC, G7J 3Y3
 
-<https://www.cuisilam.com/>
-
 418 545 1700
 
 <info@cuisilam.com>
+
+<https://www.cuisilam.com/>
 
 ### Fleurs Coupées Chicoutimi Inc.
 

@@ -11,11 +11,13 @@
 
 ### Bois Malo.
 
-1540 Rang du Domaine, Sainte-Mélanie, QC J0K 3A0
+101 rue armand, Ste-Melanie, QC J0K 3A0
 
-450 889 2478
+450 889 6256
 
-<http://www.boismalo.com/>
+<info@sdmalo.com>
+
+<http://www.sdmalo.com/>
 
 ### Centre de pin, JL Ouellette
 
@@ -42,4 +44,14 @@
 <lesboisdesroches@gmail.com>
 
 <https://www.boisdesroches.com/>
+
+### L'artisan du lac
+
+1180 Ernest-Harnois, Joliette, QC J6E 0E8
+
+450 753 7767
+
+<artisandulac@gmail.com>
+
+<https://artisandulac.ca/>
 
