@@ -36,3 +36,23 @@
 info@wood-source.com
 
 <https://wood-source.com/>
+
+### Goodfellow - Campbellville
+
+9184 route Twiss, P.O. Box 460 Campbellville, ON L0P 1B0
+
+905 854 5800
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>
+
+### Goodfellow - Ottawa
+
+3091, route Albion North Ottawa, ON K1V 9V9
+
+613 244 3169
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>

@@ -29,3 +29,12 @@
 
 <https://danoucharette.com/>
 
+### Déco Wood Plus
+
+277-1 ch Industriel, L'Ange-Gardien, QC J8L 0A9
+
+819 986 3971
+
+<info@decowoodplus.com>
+
+<https://www.decowoodplus.com/>

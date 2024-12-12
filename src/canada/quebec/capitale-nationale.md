@@ -73,3 +73,12 @@
 
 <https://www.rlumber.ca>
 
+### Goodfellow - Québec
+
+5100, rue John Molson Québec, QC G1X 3X4
+
+418 650 5100
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>

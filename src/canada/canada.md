@@ -170,6 +170,15 @@ Les liens sont classé par région.
 
 <https://www.rlumber.ca>
 
+### Goodfellow - Québec
+
+5100, rue John Molson Québec, QC G1X 3X4
+
+418 650 5100
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>
 
 ## Mauricie. {#R-04}
 
@@ -326,6 +335,15 @@ Les liens sont classé par région.
 
 <https://danoucharette.com/>
 
+### Déco Wood Plus
+
+277-1 ch Industriel, L'Ange-Gardien, QC J8L 0A9
+
+819 986 3971
+
+<info@decowoodplus.com>
+
+<https://www.decowoodplus.com/>
 
 ## Abitibi-Témiscamingue. {#R-08}
 
@@ -570,16 +588,15 @@ Les liens sont classé par région.
 
 <https://www.cambiumex.com/>
 
-### Goodfellow
+### Goodfellow - Delson
 
-225 Goodfellow, Delson, QC, J5B 1V5 
+225, rue Goodfellow Delson, QC J5B 1V5
 
 450 635 6511
 
 <info@goodfellowinc.com>
 
 <https://www.goodfellowinc.com/>
-
 
 ## Centre-du-Québec {#R-17}
 
@@ -699,6 +716,54 @@ Les adresses sont classées par région.
 info@wood-source.com
 
 <https://wood-source.com/>
+
+### Goodfellow - Campbellville
+
+9184 route Twiss, P.O. Box 460 Campbellville, ON L0P 1B0
+
+905 854 5800
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>
+
+### Goodfellow - Ottawa
+
+3091, route Albion North Ottawa, ON K1V 9V9
+
+613 244 3169
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>
+
+# Alberta. {#P-Alberta}
+Les adresses sont classées par ville.
+
+## Calgary
+
+### Goodfellow
+
+2600 - 61e avenue S.E. Calgary, AB T2C 4V2
+
+403 252 9638
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>
+
+## Edmonton {#R-edmonton}
+
+### Goodfellow
+
+11128 – 158e rue Edmonton, AB T5M 1Y4
+
+780 469 1299
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>
+
 
 # Copyright
 ## MIT License

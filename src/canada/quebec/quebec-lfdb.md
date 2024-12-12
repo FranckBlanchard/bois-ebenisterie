@@ -133,6 +133,15 @@ Les liens sont classé par région.
 
 <https://www.rlumber.ca>
 
+### Goodfellow - Québec
+
+5100, rue John Molson Québec, QC G1X 3X4
+
+418 650 5100
+
+<info@goodfellowinc.com>
+
+<https://www.goodfellowinc.com/>
 
 ## Mauricie. {#R-04}
 
@@ -289,6 +298,15 @@ Les liens sont classé par région.
 
 <https://danoucharette.com/>
 
+### Déco Wood Plus
+
+277-1 ch Industriel, L'Ange-Gardien, QC J8L 0A9
+
+819 986 3971
+
+<info@decowoodplus.com>
+
+<https://www.decowoodplus.com/>
 
 ## Abitibi-Témiscamingue. {#R-08}
 
@@ -533,16 +551,15 @@ Les liens sont classé par région.
 
 <https://www.cambiumex.com/>
 
-### Goodfellow
+### Goodfellow - Delson
 
-225 Goodfellow, Delson, QC, J5B 1V5 
+225, rue Goodfellow Delson, QC J5B 1V5
 
 450 635 6511
 
 <info@goodfellowinc.com>
 
 <https://www.goodfellowinc.com/>
-
 
 ## Centre-du-Québec {#R-17}
 

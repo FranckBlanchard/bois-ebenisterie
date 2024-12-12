@@ -77,13 +77,12 @@
 
 <https://www.cambiumex.com/>
 
-### Goodfellow
+### Goodfellow - Delson
 
-225 Goodfellow, Delson, QC, J5B 1V5 
+225, rue Goodfellow Delson, QC J5B 1V5
 
 450 635 6511
 
 <info@goodfellowinc.com>
 
 <https://www.goodfellowinc.com/>
-

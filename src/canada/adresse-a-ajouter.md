@@ -1,48 +1,3 @@
-## Ontario - Est
-
-### Goodfellow - Campbellville
-
-9184 route Twiss, P.O. Box 460 Campbellville, ON L0P 1B0
-
-905 854 5800
-
-<info@goodfellowinc.com>
-
-<https://www.goodfellowinc.com/>
-
-### Goodfellow - Ottawa
-
-3091, route Albion North Ottawa, ON K1V 9V9
-
-613 244 3169
-
-<info@goodfellowinc.com>
-
-<https://www.goodfellowinc.com/>
-
-## Québec - Montérégie
-
-### Goodfellow - Delson
-
-225, rue Goodfellow Delson, QC J5B 1V5
-
-450 635 6511
-
-<info@goodfellowinc.com>
-
-<https://www.goodfellowinc.com/>
-
-## Québec - Capitale-Nationale
-
-### Goodfellow - Québec
-
-5100, rue John Molson Québec, QC G1X 3X4
-
-418 650 5100
-
-<info@goodfellowinc.com>
-
-<https://www.goodfellowinc.com/>
 
 ## Nouveau-Brunswick
 
@@ -94,25 +49,8 @@
 
 ## Alberta
 
-### Goodfellow - Calgary
 
-2600 - 61e avenue S.E. Calgary, AB T2C 4V2
 
-403 252 9638
-
-<info@goodfellowinc.com>
-
-<https://www.goodfellowinc.com/>
-
-### Goodfellow - Edmonton
-
-11128 – 158e rue Edmonton, AB T5M 1Y4
-
-780 469 1299
-
-<info@goodfellowinc.com>
-
-<https://www.goodfellowinc.com/>
 
 ## Saskatchewan
 

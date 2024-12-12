@@ -6,6 +6,8 @@
         <antcall target="quebec-html"></antcall>
         <antcall target="ontario"></antcall>
         <antcall target="ontario-html"></antcall>
+        <antcall target="alberta"></antcall>
+        <antcall target="alberta-html"></antcall>
         <antcall target="canada"></antcall>
         <antcall target="canada-lfdb"></antcall>
         <antcall target="canada-html"></antcall>
@@ -103,6 +105,28 @@
             <arg value="build/html/canada/ontario/ontario.html"/>
         </exec>
     </target>
+    <target name="alberta" description="Création du fichier alberta.md">
+        <echo message="Création du fichier alberta.md"/>
+        <concat destfile="src/canada/alberta/alberta.md">
+            <filelist >
+                <file name="src/canada/alberta/introduction.md"/>
+                <file name="src/canada/alberta/calgary.md"/>
+                <file name="src/canada/alberta/edmonton.md"/>
+            </filelist>
+        </concat>
+    </target>
+    <target name="alberta-html" description="Création du fichier alberta.html">
+        <echo message="Création du fichier alberta.html"/>
+        <exec executable="pandoc">
+            <arg value="src/canada/alberta/alberta.md"/>
+            <arg value="-f"/>
+            <arg value="markdown"/>
+            <arg value="-t"/>
+            <arg value="html"/>
+            <arg value="-o"/>
+            <arg value="build/html/canada/alberta/alberta.html"/>
+        </exec>
+    </target>
     <target name="canada" description="Création du fichier canada.md">
         <echo message="Création du fichier canada.md"/>
         <concat destfile="src/canada/canada.md">
@@ -112,6 +136,7 @@
                 <file name="src/canada/menu-province.md"/>
                 <file name="src/canada/quebec/quebec.md"/>
                 <file name="src/canada/ontario/ontario.md"/>
+                <file name="src/canada/alberta/alberta.md"/>
                 <file name="LICENSE"/>
             </filelist>
         </concat>
@@ -122,6 +147,7 @@
             <filelist >
                 <file name="src/canada/quebec/quebec-lfdb.md"/>
                 <file name="src/canada/ontario/ontario.md"/>
+                <file name="src/canada/alberta/alberta.md"/>
             </filelist>
         </concat>
     </target>
