@@ -578,16 +578,6 @@ Les liens sont classé par région.
 
 <https://centredepinmonteregie.ca/>
 
-### Cambiumex Inc.
-
-899 chemin Benoit,Mont-Saint-Hilaire,QC, J3H 0L6
-
-450 536 0100
-
-<info@cambiumex.com>
-
-<https://www.cambiumex.com/>
-
 ### Goodfellow - Delson
 
 225, rue Goodfellow Delson, QC J5B 1V5
@@ -740,7 +730,7 @@ info@wood-source.com
 # Alberta. {#P-Alberta}
 Les adresses sont classées par ville.
 
-## Calgary
+## Calgary {#R-calgary}
 
 ### Goodfellow
 
